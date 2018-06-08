@@ -12,7 +12,7 @@ term_eval uses a JSON representation of gold standard reference lists, and a tab
 
 ### Installation ###
 
-term_eval is a standalone tool that requires python3 to be executed.
+term_eval is a standalone tool that requires python3 and scipy to be executed.
 
 ### How do I use term_eval? ###
 
