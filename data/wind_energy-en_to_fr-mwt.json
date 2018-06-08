@@ -1,0 +1,587 @@
+{
+  "description": "English -> French MWT translation reference list.",
+  "terms": [
+    {
+      "source": "wind park",
+      "targets": [
+        "ferme éolien",
+        "parc de éolien",
+        "parc eolien",
+        "parc industriel éolien",
+        "parc national éolien",
+        "parc national éolien",
+        "parc éolien",
+        "site du système éolien",
+        "site éolien"
+      ]
+    },
+    {
+      "source": "wind power plant",
+      "targets": [
+        "central éolien",
+        "centrale éolienne"
+      ]
+    },
+    {
+      "source": "wind direction",
+      "targets": [
+        "direction de le vent",
+        "direction de vent",
+        "direction du vent",
+        "orientation de le vent"
+      ]
+    },
+    {
+      "source": "wind turbine",
+      "targets": [
+        "turbine éolien",
+        "turbine éolienne"
+      ]
+    },
+    {
+      "source": "wind energy",
+      "targets": [
+        "energie eolien",
+        "énergie de un éolien",
+        "énergie du système éolien",
+        "énergie électrique éolien",
+        "énergie éolien",
+        "énergie éolienne"
+      ]
+    },
+    {
+      "source": "wind speed",
+      "targets": [
+        "vitesse de le vent",
+        "vitesse de vent",
+        "vitesse du vent",
+        "vitesse moyen de le vent",
+        "vitesse moyen de vent",
+        "vitesse nominal de vent",
+        "vitesse élever de vent"
+      ]
+    },
+    {
+      "source": "renewable energy",
+      "targets": [
+        "energie renouvelable",
+        "énergie hybride renouvelable",
+        "énergie renouvelable",
+        "énergie électrique renouvelable"
+      ]
+    },
+    {
+      "source": "sound level",
+      "targets": [
+        "niveau de bruit",
+        "niveau de le bruit",
+        "niveau sonore"
+      ]
+    },
+    {
+      "source": "greenhouse gas",
+      "targets": [
+        "gaz à effet de serre"
+      ]
+    },
+    {
+      "source": "wind rose",
+      "targets": [
+        "rose de le vent",
+        "rose des vents"
+      ]
+    },
+    {
+      "source": "aerodynamic behaviors",
+      "targets": [
+        "comportement aérodynamique",
+        "comportement énergétique et aérodynamique"
+      ]
+    },
+    {
+      "source": "conduction loss",
+      "targets": [
+        "perte de conduction",
+        "perte global par conduction",
+        "perte par conduction",
+        "pertes par conduction"
+      ]
+    },
+    {
+      "source": "aerodynamic power",
+      "targets": [
+        "puissance aérodynamique"
+      ]
+    },
+    {
+      "source": "rated power",
+      "targets": [
+        "puissance nominal du générateur",
+        "puissance nominal",
+        "puissance nominale"
+      ]
+    },
+    {
+      "source": "total power",
+      "targets": [
+        "capacité total",
+        "puissance total",
+        "puissance totale"
+      ]
+    },
+    {
+      "source": "reference power",
+      "targets": [
+        "puissance de référence"
+      ]
+    },
+    {
+      "source": "carbon dioxide",
+      "targets": [
+        "co2",
+        "dioxyde de carbone",
+        "gaz carbonique"
+      ]
+    },
+    {
+      "source": "vertical axis wind turbine",
+      "targets": [
+        "turbine à axe vertical",
+        "turbine éolien à axe vertical",
+        "éolien à axe vertical",
+        "éolienne à axe vertical"
+      ]
+    },
+    {
+      "source": "horizontal axis wind turbine",
+      "targets": [
+        "turbine à axe horizontal",
+        "turbine éolien à axe horizontal",
+        "éolien à axe horizontal",
+        "éolienne à axe horizontal"
+      ]
+    },
+    {
+      "source": "offshore wind turbine",
+      "targets": [
+        "éolien off-shore",
+        "éolien offshore",
+        "éolienne offshore"
+      ]
+    },
+    {
+      "source": "domestic wind turbine",
+      "targets": [
+        "éolien domestique",
+        "éolienne domestique"
+      ]
+    },
+    {
+      "source": "Darrieus rotor",
+      "targets": [
+        "rotor de Darrieus"
+      ]
+    },
+    {
+      "source": "Savonius rotor",
+      "targets": [
+        "rotor de Savonius"
+      ]
+    },
+    {
+      "source": "rotor shaft",
+      "targets": [
+        "arbre"
+      ]
+    },
+    {
+      "source": "wind vane",
+      "targets": [
+        "girouette"
+      ]
+    },
+    {
+      "source": "maximum power",
+      "targets": [
+        "puissance maximal disponible",
+        "puissance maximal",
+        "puissance maximale",
+        "puissance maximum"
+      ]
+    },
+    {
+      "source": "air density",
+      "targets": [
+        "densité de l'air",
+        "densité de le air"
+      ]
+    },
+    {
+      "source": "hub height",
+      "targets": [
+        "hauteur au moyeu",
+        "hauteur de le moyeu",
+        "hauteur de moyeu",
+        "hauteur du moyeu"
+      ]
+    },
+    {
+      "source": "control system",
+      "targets": [
+        "système de contrôle"
+      ]
+    },
+    {
+      "source": "pitch angle",
+      "targets": [
+        "angle de calage",
+        "angle de incidence",
+        "angle de inclinaison"
+      ]
+    },
+    {
+      "source": "angle of attack",
+      "targets": [
+        "angle d'attaque",
+        "angle de attaque"
+      ]
+    },
+    {
+      "source": "impact assessment",
+      "targets": [
+        "étude d'impact",
+        "étude de impact environnemental",
+        "étude de impact",
+        "étude de le impact",
+        "évaluation des impact"
+      ]
+    },
+    {
+      "source": "environmental impact",
+      "targets": [
+        "impact environnemental",
+        "impact sur le environnement"
+      ]
+    },
+    {
+      "source": "power curve",
+      "targets": [
+        "courbe de puissance",
+        "courbe de le puissance"
+      ]
+    },
+    {
+      "source": "energy conversion efficiency",
+      "targets": [
+        "efficacité de la conversion électromécanique",
+        "efficacité de le conversion électromécanique",
+        "efficacité de le conversion de le énergie mécanique"
+      ]
+    },
+    {
+      "source": "angle of the blades",
+      "targets": [
+        "angle de la pale",
+        "angle de le pale",
+        "angle de pale fixe",
+        "angle des pale"
+      ]
+    },
+    {
+      "source": "blade profiles",
+      "targets": [
+        "profil de aile",
+        "profil de pale",
+        "profil des pale",
+        "profil local de pale"
+      ]
+    },
+    {
+      "source": "electricity network",
+      "targets": [
+        "réseau de transport de électricité",
+        "réseau de énergie électrique",
+        "réseau public de électricité",
+        "réseau électrique classique",
+        "réseau électrique"
+      ]
+    },
+    {
+      "source": "renewable source",
+      "targets": [
+        "source de génération renouvelable",
+        "source renouvelable de faible coût",
+        "source renouvelable"
+      ]
+    },
+    {
+      "source": "blade tip",
+      "targets": [
+        "bout de le pale",
+        "bout de pale",
+        "pointe de le pale"
+      ]
+    },
+    {
+      "source": "electric power",
+      "targets": [
+        "puissance électrique du générateur",
+        "puissance électrique",
+        "énergie électrique"
+      ]
+    },
+    {
+      "source": "energy storage",
+      "targets": [
+        "stockage d'énergie",
+        "stockage de energie",
+        "stockage de le énergie",
+        "stockage de énergie électrique",
+        "stockage de énergie",
+        "stockage inertiel de énergie"
+      ]
+    },
+    {
+      "source": "wind resource",
+      "targets": [
+        "ressource du vent",
+        "ressource en vent",
+        "ressource éolien",
+        "ressource éolienne"
+      ]
+    },
+    {
+      "source": "blade element",
+      "targets": [
+        "élément de le pale",
+        "élément de pale",
+        "élément de un pale"
+      ]
+    },
+    {
+      "source": "power coefficient",
+      "targets": [
+        "coefficient de puissance"
+      ]
+    },
+    {
+      "source": "wind generator",
+      "targets": [
+        "générateur éolien à vitesse",
+        "générateur éolien",
+        "génératrice éolien"
+      ]
+    },
+    {
+      "source": "wind energy potential",
+      "targets": [
+        "potentiel de le éolien",
+        "potentiel éolien"
+      ]
+    },
+    {
+      "source": "rotational speed",
+      "targets": [
+        "vitesse angulaire de rotation",
+        "vitesse de rotation de référence",
+        "vitesse de rotation fixe",
+        "vitesse de rotation",
+        "vitesse donner de rotation",
+        "vitesse nominal de rotation"
+      ]
+    },
+    {
+      "source": "wind system",
+      "targets": [
+        "systeme eolien",
+        "système hybride éolien",
+        "système éolien de puissance",
+        "système éolien réel",
+        "système éolien"
+      ]
+    },
+    {
+      "source": "synchronous generator",
+      "targets": [
+        "générateur synchrone",
+        "génératrice synchrone",
+        "machine synchrone"
+      ]
+    },
+    {
+      "source": "power system",
+      "targets": [
+        "système de grand puissance",
+        "système de puissance",
+        "système de énergie",
+        "système électrique"
+      ]
+    },
+    {
+      "source": "horizontal axis",
+      "targets": [
+        "axe horizontal"
+      ]
+    },
+    {
+      "source": "vertical axis",
+      "targets": [
+        "axe vertical"
+      ]
+    },
+    {
+      "source": "low frequency",
+      "targets": [
+        "bas fréquence",
+        "faible fréquence"
+      ]
+    },
+    {
+      "source": "power capacity",
+      "targets": [
+        "capacité d'énergie",
+        "capacité de énergie",
+        "capacité du système de puissance"
+      ]
+    },
+    {
+      "source": "rotor speed",
+      "targets": [
+        "rotor speed",
+        "vitesse de le rotor",
+        "vitesse de rotor",
+        "vitesse du rotor",
+        "vitesse moyen au rotor"
+      ]
+    },
+    {
+      "source": "transmission system",
+      "targets": [
+        "système de transmission"
+      ]
+    },
+    {
+      "source": "wind industry",
+      "targets": [
+        "industrie de l'éolien",
+        "industrie de le éolien"
+      ]
+    },
+    {
+      "source": "speed ratio",
+      "targets": [
+        "rapport de transmission",
+        "rapport de vitesse"
+      ]
+    },
+    {
+      "source": "wind site",
+      "targets": [
+        "site avec du|un vents",
+        "site de éolien",
+        "site éolien"
+      ]
+    },
+    {
+      "source": "rotor winding",
+      "targets": [
+        "bobinage au rotor",
+        "bobinage de le rotor",
+        "bobinage rotorique",
+        "enroulement de le rotor",
+        "enroulement du rotor",
+        "enroulement rotorique"
+      ]
+    },
+    {
+      "source": "sustainable energy",
+      "targets": [
+        "énergie durable",
+        "énergie indéfiniment durable"
+      ]
+    },
+    {
+      "source": "reactive power",
+      "targets": [
+        "puissance réactif",
+        "puissance réactive"
+      ]
+    },
+    {
+      "source": "rotor assembly",
+      "targets": [
+        "ensemble rotor + nacelle",
+        "ensemble rotor"
+      ]
+    },
+    {
+      "source": "moderate wind",
+      "targets": [
+        "vent moyen"
+      ]
+    },
+    {
+      "source": "wind project",
+      "targets": [
+        "projet éolien"
+      ]
+    },
+    {
+      "source": "power installation",
+      "targets": [
+        "installation de production de électricité",
+        "installation électrique"
+      ]
+    },
+    {
+      "source": "wind energy development",
+      "targets": [
+        "développement de l'énergie éolienne",
+        "développement de le énergie éolien"
+      ]
+    },
+    {
+      "source": "wind velocity",
+      "targets": [
+        "vitesse de le vent",
+        "vitesse de vent",
+        "vitesse du vent",
+        "vitesse moyen de le vent",
+        "vitesse moyen de vent",
+        "vitesse nominal de vent",
+        "vitesse élever de vent"
+      ]
+    },
+    {
+      "source": "high wind",
+      "targets": [
+        "vent fort",
+        "vent très fort"
+      ]
+    },
+    {
+      "source": "facing the wind",
+      "targets": [
+        "face au vent",
+        "face à le vent"
+      ]
+    },
+    {
+      "source": "light wind",
+      "targets": [
+        "vent faible",
+        "vent léger",
+        "vent très faible"
+      ]
+    },
+    {
+      "source": "wind farm",
+      "targets": [
+        "ferme éolien",
+        "ferme éolienne",
+        "parc éolien",
+        "site éolien"
+      ]
+    }
+  ]
+}

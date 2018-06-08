@@ -1,0 +1,9374 @@
+{
+  "description": "English -> Italian SW pairs (Artetxe et al., 2016)",
+  "terms": [
+    {
+      "source": "sweetening",
+      "targets": [
+        "addolcire"
+      ]
+    },
+    {
+      "source": "sergei",
+      "targets": [
+        "sergei"
+      ]
+    },
+    {
+      "source": "magnetic",
+      "targets": [
+        "magnetica",
+        "magnetici",
+        "magnetico"
+      ]
+    },
+    {
+      "source": "desirable",
+      "targets": [
+        "auspicabile"
+      ]
+    },
+    {
+      "source": "idealised",
+      "targets": [
+        "idealizzata",
+        "idealizzato"
+      ]
+    },
+    {
+      "source": "woods",
+      "targets": [
+        "bretton"
+      ]
+    },
+    {
+      "source": "intercommunication",
+      "targets": [
+        "intercomunicazione"
+      ]
+    },
+    {
+      "source": "auc",
+      "targets": [
+        "auc"
+      ]
+    },
+    {
+      "source": "consciences",
+      "targets": [
+        "coscienze"
+      ]
+    },
+    {
+      "source": "unblocked",
+      "targets": [
+        "sbloccata",
+        "sbloccate"
+      ]
+    },
+    {
+      "source": "centres",
+      "targets": [
+        "centri"
+      ]
+    },
+    {
+      "source": "physiological",
+      "targets": [
+        "fisiologica",
+        "fisiologiche",
+        "fisiologici",
+        "fisiologico"
+      ]
+    },
+    {
+      "source": "pensions",
+      "targets": [
+        "pensioni"
+      ]
+    },
+    {
+      "source": "censored",
+      "targets": [
+        "censurata",
+        "censurati",
+        "censurato"
+      ]
+    },
+    {
+      "source": "bike",
+      "targets": [
+        "motocicletta"
+      ]
+    },
+    {
+      "source": "lord",
+      "targets": [
+        "lord"
+      ]
+    },
+    {
+      "source": "worth",
+      "targets": [
+        "pena"
+      ]
+    },
+    {
+      "source": "prefacing",
+      "targets": [
+        "prefazione"
+      ]
+    },
+    {
+      "source": "haughtiness",
+      "targets": [
+        "superbia"
+      ]
+    },
+    {
+      "source": "regional",
+      "targets": [
+        "regionale",
+        "regionali"
+      ]
+    },
+    {
+      "source": "fragmenting",
+      "targets": [
+        "frammentano",
+        "frammentare"
+      ]
+    },
+    {
+      "source": "rearguard",
+      "targets": [
+        "retroguardia"
+      ]
+    },
+    {
+      "source": "adige",
+      "targets": [
+        "adige"
+      ]
+    },
+    {
+      "source": "exporters",
+      "targets": [
+        "esportatori"
+      ]
+    },
+    {
+      "source": "school",
+      "targets": [
+        "school",
+        "scuola"
+      ]
+    },
+    {
+      "source": "ovation",
+      "targets": [
+        "ovation"
+      ]
+    },
+    {
+      "source": "vitriolic",
+      "targets": [
+        "malevolenza"
+      ]
+    },
+    {
+      "source": "implanting",
+      "targets": [
+        "trapiantare"
+      ]
+    },
+    {
+      "source": "delegate",
+      "targets": [
+        "delegare",
+        "delegato"
+      ]
+    },
+    {
+      "source": "monologue",
+      "targets": [
+        "monologo"
+      ]
+    },
+    {
+      "source": "heading",
+      "targets": [
+        "rubrica"
+      ]
+    },
+    {
+      "source": "whirlwind",
+      "targets": [
+        "movimentato"
+      ]
+    },
+    {
+      "source": "dogmas",
+      "targets": [
+        "dogmi"
+      ]
+    },
+    {
+      "source": "guidelines",
+      "targets": [
+        "orientamenti"
+      ]
+    },
+    {
+      "source": "estimates",
+      "targets": [
+        "stime"
+      ]
+    },
+    {
+      "source": "samara",
+      "targets": [
+        "samara"
+      ]
+    },
+    {
+      "source": "chef",
+      "targets": [
+        "chef"
+      ]
+    },
+    {
+      "source": "totems",
+      "targets": [
+        "totem"
+      ]
+    },
+    {
+      "source": "cesar",
+      "targets": [
+        "cesar",
+        "cesr"
+      ]
+    },
+    {
+      "source": "even",
+      "targets": [
+        "anche",
+        "persino"
+      ]
+    },
+    {
+      "source": "meekly",
+      "targets": [
+        "docilmente"
+      ]
+    },
+    {
+      "source": "demilitarization",
+      "targets": [
+        "smilitarizzazione"
+      ]
+    },
+    {
+      "source": "cooking",
+      "targets": [
+        "cottura",
+        "cucinare"
+      ]
+    },
+    {
+      "source": "fonzie",
+      "targets": [
+        "fonzie"
+      ]
+    },
+    {
+      "source": "hazy",
+      "targets": [
+        "nebuloso"
+      ]
+    },
+    {
+      "source": "exclamations",
+      "targets": [
+        "esclamazioni"
+      ]
+    },
+    {
+      "source": "never",
+      "targets": [
+        "mai"
+      ]
+    },
+    {
+      "source": "csps",
+      "targets": [
+        "csp"
+      ]
+    },
+    {
+      "source": "ramps",
+      "targets": [
+        "rampe"
+      ]
+    },
+    {
+      "source": "osha",
+      "targets": [
+        "osha"
+      ]
+    },
+    {
+      "source": "karamanlis",
+      "targets": [
+        "karamanlis"
+      ]
+    },
+    {
+      "source": "mozzarella",
+      "targets": [
+        "mozzarella"
+      ]
+    },
+    {
+      "source": "chink",
+      "targets": [
+        "crepa"
+      ]
+    },
+    {
+      "source": "auction",
+      "targets": [
+        "asta"
+      ]
+    },
+    {
+      "source": "climbed",
+      "targets": [
+        "scalato"
+      ]
+    },
+    {
+      "source": "stevia",
+      "targets": [
+        "stevia"
+      ]
+    },
+    {
+      "source": "astuteness",
+      "targets": [
+        "acume"
+      ]
+    },
+    {
+      "source": "visibly",
+      "targets": [
+        "visibilmente"
+      ]
+    },
+    {
+      "source": "overworking",
+      "targets": [
+        "superlavoro"
+      ]
+    },
+    {
+      "source": "criminals",
+      "targets": [
+        "criminali"
+      ]
+    },
+    {
+      "source": "lennart",
+      "targets": [
+        "lennart"
+      ]
+    },
+    {
+      "source": "cana",
+      "targets": [
+        "cana"
+      ]
+    },
+    {
+      "source": "quibbles",
+      "targets": [
+        "cavilli"
+      ]
+    },
+    {
+      "source": "music",
+      "targets": [
+        "musica",
+        "musicali"
+      ]
+    },
+    {
+      "source": "valenciennes",
+      "targets": [
+        "valenciennes"
+      ]
+    },
+    {
+      "source": "tenzin",
+      "targets": [
+        "tenzin"
+      ]
+    },
+    {
+      "source": "bilge",
+      "targets": [
+        "sentina"
+      ]
+    },
+    {
+      "source": "mendieta",
+      "targets": [
+        "mendieta"
+      ]
+    },
+    {
+      "source": "thabo",
+      "targets": [
+        "thabo"
+      ]
+    },
+    {
+      "source": "excellent",
+      "targets": [
+        "eccellente",
+        "ottima",
+        "ottimo"
+      ]
+    },
+    {
+      "source": "shahid",
+      "targets": [
+        "shahid"
+      ]
+    },
+    {
+      "source": "mossadeq",
+      "targets": [
+        "mossadeq"
+      ]
+    },
+    {
+      "source": "reads",
+      "targets": [
+        "recita"
+      ]
+    },
+    {
+      "source": "exceptions",
+      "targets": [
+        "deroghe",
+        "eccezioni"
+      ]
+    },
+    {
+      "source": "akim",
+      "targets": [
+        "akim"
+      ]
+    },
+    {
+      "source": "núñez",
+      "targets": [
+        "núñez"
+      ]
+    },
+    {
+      "source": "heysel",
+      "targets": [
+        "heysel"
+      ]
+    },
+    {
+      "source": "unreconstructed",
+      "targets": [
+        "irriducibile"
+      ]
+    },
+    {
+      "source": "compulsive",
+      "targets": [
+        "compulsivo"
+      ]
+    },
+    {
+      "source": "involve",
+      "targets": [
+        "coinvolgere"
+      ]
+    },
+    {
+      "source": "fiche",
+      "targets": [
+        "fiche"
+      ]
+    },
+    {
+      "source": "tornadoes",
+      "targets": [
+        "tornado"
+      ]
+    },
+    {
+      "source": "eni",
+      "targets": [
+        "eni"
+      ]
+    },
+    {
+      "source": "systematised",
+      "targets": [
+        "sistematizzata"
+      ]
+    },
+    {
+      "source": "enp",
+      "targets": [
+        "pev"
+      ]
+    },
+    {
+      "source": "morbid",
+      "targets": [
+        "morbosa",
+        "morboso"
+      ]
+    },
+    {
+      "source": "iiib",
+      "targets": [
+        "iiib"
+      ]
+    },
+    {
+      "source": "terence",
+      "targets": [
+        "terence"
+      ]
+    },
+    {
+      "source": "tripling",
+      "targets": [
+        "triplicare"
+      ]
+    },
+    {
+      "source": "equidae",
+      "targets": [
+        "equidi"
+      ]
+    },
+    {
+      "source": "pollinating",
+      "targets": [
+        "impollinatori"
+      ]
+    },
+    {
+      "source": "egon",
+      "targets": [
+        "egon"
+      ]
+    },
+    {
+      "source": "pimps",
+      "targets": [
+        "protettori",
+        "sfruttatori"
+      ]
+    },
+    {
+      "source": "egos",
+      "targets": [
+        "ego"
+      ]
+    },
+    {
+      "source": "president",
+      "targets": [
+        "presidente"
+      ]
+    },
+    {
+      "source": "notionally",
+      "targets": [
+        "concettualmente"
+      ]
+    },
+    {
+      "source": "parallel",
+      "targets": [
+        "parallela",
+        "parallele",
+        "parallelo"
+      ]
+    },
+    {
+      "source": "las",
+      "targets": [
+        "las"
+      ]
+    },
+    {
+      "source": "marginalize",
+      "targets": [
+        "emarginano"
+      ]
+    },
+    {
+      "source": "scourge",
+      "targets": [
+        "flagello",
+        "piaga"
+      ]
+    },
+    {
+      "source": "wins",
+      "targets": [
+        "vince"
+      ]
+    },
+    {
+      "source": "green",
+      "targets": [
+        "verde",
+        "verdi"
+      ]
+    },
+    {
+      "source": "operate",
+      "targets": [
+        "operare"
+      ]
+    },
+    {
+      "source": "order",
+      "targets": [
+        "fine",
+        "ordine"
+      ]
+    },
+    {
+      "source": "terni",
+      "targets": [
+        "terni"
+      ]
+    },
+    {
+      "source": "over",
+      "targets": [
+        "oltre",
+        "più"
+      ]
+    },
+    {
+      "source": "rewarded",
+      "targets": [
+        "premiati",
+        "ricompensati"
+      ]
+    },
+    {
+      "source": "biofuels",
+      "targets": [
+        "biocarburanti",
+        "biocombustibili"
+      ]
+    },
+    {
+      "source": "iaea",
+      "targets": [
+        "aiea"
+      ]
+    },
+    {
+      "source": "dumbstruck",
+      "targets": [
+        "esterrefatto"
+      ]
+    },
+    {
+      "source": "writing",
+      "targets": [
+        "iscritto"
+      ]
+    },
+    {
+      "source": "survivors",
+      "targets": [
+        "sopravvissuti"
+      ]
+    },
+    {
+      "source": "ncbs",
+      "targets": [
+        "bcn"
+      ]
+    },
+    {
+      "source": "tegucigalpa",
+      "targets": [
+        "tegucigalpa"
+      ]
+    },
+    {
+      "source": "restyling",
+      "targets": [
+        "restyling"
+      ]
+    },
+    {
+      "source": "emigrated",
+      "targets": [
+        "emigrati",
+        "emigrato"
+      ]
+    },
+    {
+      "source": "structural",
+      "targets": [
+        "strutturale",
+        "strutturali"
+      ]
+    },
+    {
+      "source": "enmities",
+      "targets": [
+        "inimicizie"
+      ]
+    },
+    {
+      "source": "muscovites",
+      "targets": [
+        "moscoviti"
+      ]
+    },
+    {
+      "source": "castigating",
+      "targets": [
+        "fustigare"
+      ]
+    },
+    {
+      "source": "absolve",
+      "targets": [
+        "esimere"
+      ]
+    },
+    {
+      "source": "victories",
+      "targets": [
+        "vittorie"
+      ]
+    },
+    {
+      "source": "constitutionalist",
+      "targets": [
+        "costituzionalista",
+        "costituzionalisti"
+      ]
+    },
+    {
+      "source": "interruption",
+      "targets": [
+        "interruzione"
+      ]
+    },
+    {
+      "source": "financial",
+      "targets": [
+        "finanziari",
+        "finanziaria",
+        "finanziarie",
+        "finanziario"
+      ]
+    },
+    {
+      "source": "liga",
+      "targets": [
+        "liga"
+      ]
+    },
+    {
+      "source": "stabiliser",
+      "targets": [
+        "stabilizzatore"
+      ]
+    },
+    {
+      "source": "regionalisation",
+      "targets": [
+        "regionalizzazione"
+      ]
+    },
+    {
+      "source": "osip",
+      "targets": [
+        "osip"
+      ]
+    },
+    {
+      "source": "hosted",
+      "targets": [
+        "ospitato"
+      ]
+    },
+    {
+      "source": "logo",
+      "targets": [
+        "logo"
+      ]
+    },
+    {
+      "source": "allay",
+      "targets": [
+        "placare"
+      ]
+    },
+    {
+      "source": "saturday",
+      "targets": [
+        "sabato"
+      ]
+    },
+    {
+      "source": "depress",
+      "targets": [
+        "deprimono"
+      ]
+    },
+    {
+      "source": "unclos",
+      "targets": [
+        "unclos"
+      ]
+    },
+    {
+      "source": "diesel",
+      "targets": [
+        "diesel",
+        "gasolio"
+      ]
+    },
+    {
+      "source": "jörg",
+      "targets": [
+        "jörg"
+      ]
+    },
+    {
+      "source": "bonnets",
+      "targets": [
+        "cofani"
+      ]
+    },
+    {
+      "source": "malagasy",
+      "targets": [
+        "malgasci",
+        "malgascia",
+        "malgascio"
+      ]
+    },
+    {
+      "source": "telecommunication",
+      "targets": [
+        "telecomunicazione"
+      ]
+    },
+    {
+      "source": "veto",
+      "targets": [
+        "veto"
+      ]
+    },
+    {
+      "source": "evin",
+      "targets": [
+        "evin"
+      ]
+    },
+    {
+      "source": "surveys",
+      "targets": [
+        "sondaggi"
+      ]
+    },
+    {
+      "source": "vets",
+      "targets": [
+        "veterinari"
+      ]
+    },
+    {
+      "source": "corrects",
+      "targets": [
+        "corregge"
+      ]
+    },
+    {
+      "source": "nta",
+      "targets": [
+        "nta"
+      ]
+    },
+    {
+      "source": "mudflats",
+      "targets": [
+        "piana"
+      ]
+    },
+    {
+      "source": "universally",
+      "targets": [
+        "universalmente"
+      ]
+    },
+    {
+      "source": "certified",
+      "targets": [
+        "certificate",
+        "certificati"
+      ]
+    },
+    {
+      "source": "ata",
+      "targets": [
+        "ata"
+      ]
+    },
+    {
+      "source": "punctuated",
+      "targets": [
+        "scandita"
+      ]
+    },
+    {
+      "source": "creates",
+      "targets": [
+        "crea"
+      ]
+    },
+    {
+      "source": "leila",
+      "targets": [
+        "leila",
+        "leyla"
+      ]
+    },
+    {
+      "source": "smokers",
+      "targets": [
+        "fumatori"
+      ]
+    },
+    {
+      "source": "signature",
+      "targets": [
+        "firma"
+      ]
+    },
+    {
+      "source": "cellars",
+      "targets": [
+        "cantine",
+        "caveau"
+      ]
+    },
+    {
+      "source": "einaudi",
+      "targets": [
+        "einaudi"
+      ]
+    },
+    {
+      "source": "reintroduced",
+      "targets": [
+        "reintrodotto"
+      ]
+    },
+    {
+      "source": "clarín",
+      "targets": [
+        "clarín"
+      ]
+    },
+    {
+      "source": "antilles",
+      "targets": [
+        "antille"
+      ]
+    },
+    {
+      "source": "sarcasm",
+      "targets": [
+        "sarcasmo"
+      ]
+    },
+    {
+      "source": "eqs",
+      "targets": [
+        "sqa"
+      ]
+    },
+    {
+      "source": "vitoria",
+      "targets": [
+        "vitoria"
+      ]
+    },
+    {
+      "source": "euphoric",
+      "targets": [
+        "euforica",
+        "euforico"
+      ]
+    },
+    {
+      "source": "tango",
+      "targets": [
+        "tango"
+      ]
+    },
+    {
+      "source": "compromise",
+      "targets": [
+        "compromesso"
+      ]
+    },
+    {
+      "source": "magda",
+      "targets": [
+        "magda"
+      ]
+    },
+    {
+      "source": "razed",
+      "targets": [
+        "rasi"
+      ]
+    },
+    {
+      "source": "romanies",
+      "targets": [
+        "zingari"
+      ]
+    },
+    {
+      "source": "john",
+      "targets": [
+        "giovanni",
+        "john"
+      ]
+    },
+    {
+      "source": "intestine",
+      "targets": [
+        "intestinale",
+        "intestino"
+      ]
+    },
+    {
+      "source": "downsize",
+      "targets": [
+        "ridimensioni"
+      ]
+    },
+    {
+      "source": "western",
+      "targets": [
+        "occidentale",
+        "occidentali"
+      ]
+    },
+    {
+      "source": "reino",
+      "targets": [
+        "reino"
+      ]
+    },
+    {
+      "source": "fyrom",
+      "targets": [
+        "fyrom"
+      ]
+    },
+    {
+      "source": "ahmet",
+      "targets": [
+        "ahmet"
+      ]
+    },
+    {
+      "source": "powers",
+      "targets": [
+        "competenze",
+        "poteri"
+      ]
+    },
+    {
+      "source": "spectrum",
+      "targets": [
+        "spettro"
+      ]
+    },
+    {
+      "source": "disinvestment",
+      "targets": [
+        "disinvestimento"
+      ]
+    },
+    {
+      "source": "mint",
+      "targets": [
+        "menta",
+        "mint"
+      ]
+    },
+    {
+      "source": "jealously",
+      "targets": [
+        "gelosamente"
+      ]
+    },
+    {
+      "source": "releases",
+      "targets": [
+        "comunicati"
+      ]
+    },
+    {
+      "source": "schreyer",
+      "targets": [
+        "schreyer"
+      ]
+    },
+    {
+      "source": "chess",
+      "targets": [
+        "scacchi"
+      ]
+    },
+    {
+      "source": "institutionalise",
+      "targets": [
+        "istituzionalizzare"
+      ]
+    },
+    {
+      "source": "thundering",
+      "targets": [
+        "fragorose"
+      ]
+    },
+    {
+      "source": "curfew",
+      "targets": [
+        "coprifuoco"
+      ]
+    },
+    {
+      "source": "degenerated",
+      "targets": [
+        "degenerato"
+      ]
+    },
+    {
+      "source": "circles",
+      "targets": [
+        "ambienti",
+        "circoli"
+      ]
+    },
+    {
+      "source": "glimpsed",
+      "targets": [
+        "scorto"
+      ]
+    },
+    {
+      "source": "unmindful",
+      "targets": [
+        "immemori"
+      ]
+    },
+    {
+      "source": "simplify",
+      "targets": [
+        "semplificare"
+      ]
+    },
+    {
+      "source": "preset",
+      "targets": [
+        "predefinita"
+      ]
+    },
+    {
+      "source": "germany",
+      "targets": [
+        "germania"
+      ]
+    },
+    {
+      "source": "scheveningen",
+      "targets": [
+        "scheveningen"
+      ]
+    },
+    {
+      "source": "phase",
+      "targets": [
+        "fase"
+      ]
+    },
+    {
+      "source": "kafkaesque",
+      "targets": [
+        "kafkiana",
+        "kafkiano"
+      ]
+    },
+    {
+      "source": "docomo",
+      "targets": [
+        "docomo"
+      ]
+    },
+    {
+      "source": "urgency",
+      "targets": [
+        "urgenza"
+      ]
+    },
+    {
+      "source": "aromatics",
+      "targets": [
+        "aromatici"
+      ]
+    },
+    {
+      "source": "probe",
+      "targets": [
+        "sonda"
+      ]
+    },
+    {
+      "source": "precarious",
+      "targets": [
+        "precari",
+        "precaria",
+        "precarie",
+        "precario"
+      ]
+    },
+    {
+      "source": "katerina",
+      "targets": [
+        "katerina"
+      ]
+    },
+    {
+      "source": "qaeda",
+      "targets": [
+        "qaeda"
+      ]
+    },
+    {
+      "source": "echinacea",
+      "targets": [
+        "echinacea"
+      ]
+    },
+    {
+      "source": "interpenetration",
+      "targets": [
+        "compenetrazione"
+      ]
+    },
+    {
+      "source": "bush",
+      "targets": [
+        "bush"
+      ]
+    },
+    {
+      "source": "gideon",
+      "targets": [
+        "gideon"
+      ]
+    },
+    {
+      "source": "alde",
+      "targets": [
+        "alde"
+      ]
+    },
+    {
+      "source": "axiom",
+      "targets": [
+        "assioma"
+      ]
+    },
+    {
+      "source": "palliative",
+      "targets": [
+        "palliative",
+        "palliativi",
+        "palliativo"
+      ]
+    },
+    {
+      "source": "slanderous",
+      "targets": [
+        "calunniose",
+        "diffamatorio"
+      ]
+    },
+    {
+      "source": "geel",
+      "targets": [
+        "geel"
+      ]
+    },
+    {
+      "source": "galvanising",
+      "targets": [
+        "galvanizzare"
+      ]
+    },
+    {
+      "source": "sète",
+      "targets": [
+        "sète"
+      ]
+    },
+    {
+      "source": "peltier",
+      "targets": [
+        "peltier"
+      ]
+    },
+    {
+      "source": "unwitting",
+      "targets": [
+        "inconsapevole"
+      ]
+    },
+    {
+      "source": "mustafa",
+      "targets": [
+        "mustafa"
+      ]
+    },
+    {
+      "source": "reread",
+      "targets": [
+        "rileggere",
+        "riletto"
+      ]
+    },
+    {
+      "source": "encephalopathy",
+      "targets": [
+        "encefalopatia"
+      ]
+    },
+    {
+      "source": "depressive",
+      "targets": [
+        "depressive",
+        "depressivo"
+      ]
+    },
+    {
+      "source": "clarifies",
+      "targets": [
+        "chiarisce"
+      ]
+    },
+    {
+      "source": "wikipedia",
+      "targets": [
+        "wikipedia"
+      ]
+    },
+    {
+      "source": "pressures",
+      "targets": [
+        "pressioni"
+      ]
+    },
+    {
+      "source": "michelis",
+      "targets": [
+        "michelis"
+      ]
+    },
+    {
+      "source": "caves",
+      "targets": [
+        "caverne",
+        "grotte"
+      ]
+    },
+    {
+      "source": "omc",
+      "targets": [
+        "mca"
+      ]
+    },
+    {
+      "source": "terms",
+      "targets": [
+        "termini"
+      ]
+    },
+    {
+      "source": "jose",
+      "targets": [
+        "jose"
+      ]
+    },
+    {
+      "source": "paddington",
+      "targets": [
+        "paddington"
+      ]
+    },
+    {
+      "source": "leitmotif",
+      "targets": [
+        "leitmotiv"
+      ]
+    },
+    {
+      "source": "motto",
+      "targets": [
+        "motto"
+      ]
+    },
+    {
+      "source": "suggested",
+      "targets": [
+        "suggerito"
+      ]
+    },
+    {
+      "source": "behaviour",
+      "targets": [
+        "comportamenti",
+        "comportamento"
+      ]
+    },
+    {
+      "source": "federalist",
+      "targets": [
+        "federalista",
+        "federalisti"
+      ]
+    },
+    {
+      "source": "psychologists",
+      "targets": [
+        "psicologi"
+      ]
+    },
+    {
+      "source": "photosynthesis",
+      "targets": [
+        "fotosintesi"
+      ]
+    },
+    {
+      "source": "cypriots",
+      "targets": [
+        "ciprioti"
+      ]
+    },
+    {
+      "source": "filariasis",
+      "targets": [
+        "filariosi"
+      ]
+    },
+    {
+      "source": "catalans",
+      "targets": [
+        "catalani"
+      ]
+    },
+    {
+      "source": "engulfs",
+      "targets": [
+        "sprofonda"
+      ]
+    },
+    {
+      "source": "minimised",
+      "targets": [
+        "minimizzato"
+      ]
+    },
+    {
+      "source": "agusta",
+      "targets": [
+        "agusta"
+      ]
+    },
+    {
+      "source": "interrelations",
+      "targets": [
+        "interrelazioni"
+      ]
+    },
+    {
+      "source": "pregnancy",
+      "targets": [
+        "gravidanza"
+      ]
+    },
+    {
+      "source": "headlights",
+      "targets": [
+        "fari"
+      ]
+    },
+    {
+      "source": "backwardness",
+      "targets": [
+        "arretratezza"
+      ]
+    },
+    {
+      "source": "union",
+      "targets": [
+        "unione"
+      ]
+    },
+    {
+      "source": "condemned",
+      "targets": [
+        "condannati",
+        "condannato"
+      ]
+    },
+    {
+      "source": "chimneys",
+      "targets": [
+        "ciminiere"
+      ]
+    },
+    {
+      "source": "enterprises",
+      "targets": [
+        "imprese"
+      ]
+    },
+    {
+      "source": "skinheads",
+      "targets": [
+        "naziskin"
+      ]
+    },
+    {
+      "source": "overflight",
+      "targets": [
+        "sorvolo"
+      ]
+    },
+    {
+      "source": "gracias",
+      "targets": [
+        "gracias"
+      ]
+    },
+    {
+      "source": "tank",
+      "targets": [
+        "serbatoio",
+        "tank"
+      ]
+    },
+    {
+      "source": "apprehension",
+      "targets": [
+        "apprensione"
+      ]
+    },
+    {
+      "source": "ais",
+      "targets": [
+        "ais",
+        "sia"
+      ]
+    },
+    {
+      "source": "aim",
+      "targets": [
+        "aim",
+        "obiettivo",
+        "scopo"
+      ]
+    },
+    {
+      "source": "depictions",
+      "targets": [
+        "rappresentazioni"
+      ]
+    },
+    {
+      "source": "aid",
+      "targets": [
+        "aiuti",
+        "aiuto"
+      ]
+    },
+    {
+      "source": "preponderant",
+      "targets": [
+        "preponderanti"
+      ]
+    },
+    {
+      "source": "played",
+      "targets": [
+        "svolto"
+      ]
+    },
+    {
+      "source": "slicks",
+      "targets": [
+        "chiazze"
+      ]
+    },
+    {
+      "source": "anticipating",
+      "targets": [
+        "anticipando"
+      ]
+    },
+    {
+      "source": "diktats",
+      "targets": [
+        "diktat"
+      ]
+    },
+    {
+      "source": "parish",
+      "targets": [
+        "parish",
+        "parrocchia",
+        "parrocchiale",
+        "parrocchiali"
+      ]
+    },
+    {
+      "source": "gaullists",
+      "targets": [
+        "gollisti"
+      ]
+    },
+    {
+      "source": "babies",
+      "targets": [
+        "neonati"
+      ]
+    },
+    {
+      "source": "decibel",
+      "targets": [
+        "decibel"
+      ]
+    },
+    {
+      "source": "hierarchies",
+      "targets": [
+        "gerarchie"
+      ]
+    },
+    {
+      "source": "convictions",
+      "targets": [
+        "condanne",
+        "convinzioni"
+      ]
+    },
+    {
+      "source": "couple",
+      "targets": [
+        "paio"
+      ]
+    },
+    {
+      "source": "sings",
+      "targets": [
+        "canta"
+      ]
+    },
+    {
+      "source": "welsh",
+      "targets": [
+        "gallese",
+        "gallesi"
+      ]
+    },
+    {
+      "source": "qualifications",
+      "targets": [
+        "qualifiche"
+      ]
+    },
+    {
+      "source": "guilders",
+      "targets": [
+        "fiorini"
+      ]
+    },
+    {
+      "source": "greedily",
+      "targets": [
+        "avidamente",
+        "capofitto"
+      ]
+    },
+    {
+      "source": "charlie",
+      "targets": [
+        "charlie"
+      ]
+    },
+    {
+      "source": "mentors",
+      "targets": [
+        "mentori"
+      ]
+    },
+    {
+      "source": "inherit",
+      "targets": [
+        "ereditare"
+      ]
+    },
+    {
+      "source": "glimmers",
+      "targets": [
+        "barlumi",
+        "sprazzi"
+      ]
+    },
+    {
+      "source": "charity",
+      "targets": [
+        "beneficenza",
+        "carità"
+      ]
+    },
+    {
+      "source": "roma",
+      "targets": [
+        "rom"
+      ]
+    },
+    {
+      "source": "impertinent",
+      "targets": [
+        "impertinente"
+      ]
+    },
+    {
+      "source": "hearts",
+      "targets": [
+        "cuori"
+      ]
+    },
+    {
+      "source": "spencer",
+      "targets": [
+        "spencer"
+      ]
+    },
+    {
+      "source": "recoils",
+      "targets": [
+        "rifugge"
+      ]
+    },
+    {
+      "source": "elmar",
+      "targets": [
+        "elmar"
+      ]
+    },
+    {
+      "source": "anders",
+      "targets": [
+        "anders"
+      ]
+    },
+    {
+      "source": "airbag",
+      "targets": [
+        "airbag"
+      ]
+    },
+    {
+      "source": "convivial",
+      "targets": [
+        "conviviale"
+      ]
+    },
+    {
+      "source": "tomasz",
+      "targets": [
+        "tomasz"
+      ]
+    },
+    {
+      "source": "butchering",
+      "targets": [
+        "massacrano"
+      ]
+    },
+    {
+      "source": "vibration",
+      "targets": [
+        "vibrazioni"
+      ]
+    },
+    {
+      "source": "insubordination",
+      "targets": [
+        "insubordinazione"
+      ]
+    },
+    {
+      "source": "belongs",
+      "targets": [
+        "appartiene"
+      ]
+    },
+    {
+      "source": "koizumi",
+      "targets": [
+        "koizumi"
+      ]
+    },
+    {
+      "source": "igad",
+      "targets": [
+        "igad"
+      ]
+    },
+    {
+      "source": "rosati",
+      "targets": [
+        "rosati"
+      ]
+    },
+    {
+      "source": "sidestepped",
+      "targets": [
+        "eluse"
+      ]
+    },
+    {
+      "source": "possible",
+      "targets": [
+        "possibile"
+      ]
+    },
+    {
+      "source": "pullovers",
+      "targets": [
+        "maglioni"
+      ]
+    },
+    {
+      "source": "imbeciles",
+      "targets": [
+        "imbecilli"
+      ]
+    },
+    {
+      "source": "unfounded",
+      "targets": [
+        "infondata",
+        "infondate",
+        "infondati"
+      ]
+    },
+    {
+      "source": "palermo",
+      "targets": [
+        "palermo"
+      ]
+    },
+    {
+      "source": "exxon",
+      "targets": [
+        "exxon"
+      ]
+    },
+    {
+      "source": "misled",
+      "targets": [
+        "fuorviato",
+        "ingannati"
+      ]
+    },
+    {
+      "source": "dengue",
+      "targets": [
+        "dengue"
+      ]
+    },
+    {
+      "source": "mooring",
+      "targets": [
+        "ormeggio"
+      ]
+    },
+    {
+      "source": "reinterpreting",
+      "targets": [
+        "reinterpretando",
+        "reinterpretazione"
+      ]
+    },
+    {
+      "source": "ennis",
+      "targets": [
+        "ennis"
+      ]
+    },
+    {
+      "source": "right",
+      "targets": [
+        "diritto"
+      ]
+    },
+    {
+      "source": "lashes",
+      "targets": [
+        "frustate"
+      ]
+    },
+    {
+      "source": "insistence",
+      "targets": [
+        "insistenza"
+      ]
+    },
+    {
+      "source": "polycentric",
+      "targets": [
+        "policentrica",
+        "policentrico"
+      ]
+    },
+    {
+      "source": "mazen",
+      "targets": [
+        "mazen"
+      ]
+    },
+    {
+      "source": "exploitable",
+      "targets": [
+        "sfruttabili"
+      ]
+    },
+    {
+      "source": "ump",
+      "targets": [
+        "ump"
+      ]
+    },
+    {
+      "source": "idealists",
+      "targets": [
+        "idealisti"
+      ]
+    },
+    {
+      "source": "gruesomely",
+      "targets": [
+        "macabra"
+      ]
+    },
+    {
+      "source": "helmsman",
+      "targets": [
+        "timoniere"
+      ]
+    },
+    {
+      "source": "allocate",
+      "targets": [
+        "stanziare"
+      ]
+    },
+    {
+      "source": "pollutes",
+      "targets": [
+        "inquina",
+        "inquini"
+      ]
+    },
+    {
+      "source": "booking",
+      "targets": [
+        "prenotazione"
+      ]
+    },
+    {
+      "source": "poso",
+      "targets": [
+        "poso"
+      ]
+    },
+    {
+      "source": "malpensa",
+      "targets": [
+        "malpensa"
+      ]
+    },
+    {
+      "source": "annan",
+      "targets": [
+        "annan"
+      ]
+    },
+    {
+      "source": "disappearances",
+      "targets": [
+        "sparizioni"
+      ]
+    },
+    {
+      "source": "unrwa",
+      "targets": [
+        "unrwa"
+      ]
+    },
+    {
+      "source": "pln",
+      "targets": [
+        "zloty"
+      ]
+    },
+    {
+      "source": "wept",
+      "targets": [
+        "pianto"
+      ]
+    },
+    {
+      "source": "sportswomen",
+      "targets": [
+        "atlete"
+      ]
+    },
+    {
+      "source": "alber",
+      "targets": [
+        "alber"
+      ]
+    },
+    {
+      "source": "magazine",
+      "targets": [
+        "magazine",
+        "rivista"
+      ]
+    },
+    {
+      "source": "plus",
+      "targets": [
+        "plus"
+      ]
+    },
+    {
+      "source": "tranche",
+      "targets": [
+        "tranche"
+      ]
+    },
+    {
+      "source": "extremis",
+      "targets": [
+        "extremis"
+      ]
+    },
+    {
+      "source": "profession",
+      "targets": [
+        "professione"
+      ]
+    },
+    {
+      "source": "obscene",
+      "targets": [
+        "osceno"
+      ]
+    },
+    {
+      "source": "entrepreneur",
+      "targets": [
+        "imprenditore"
+      ]
+    },
+    {
+      "source": "provocateurs",
+      "targets": [
+        "provocatori"
+      ]
+    },
+    {
+      "source": "amsterdam",
+      "targets": [
+        "amsterdam"
+      ]
+    },
+    {
+      "source": "emigrate",
+      "targets": [
+        "emigrare"
+      ]
+    },
+    {
+      "source": "nihilo",
+      "targets": [
+        "nihilo"
+      ]
+    },
+    {
+      "source": "slipshod",
+      "targets": [
+        "trascuratezza"
+      ]
+    },
+    {
+      "source": "vaccination",
+      "targets": [
+        "vaccinazione"
+      ]
+    },
+    {
+      "source": "nodal",
+      "targets": [
+        "nodali"
+      ]
+    },
+    {
+      "source": "anderson",
+      "targets": [
+        "anderson"
+      ]
+    },
+    {
+      "source": "gia",
+      "targets": [
+        "gia"
+      ]
+    },
+    {
+      "source": "moratoria",
+      "targets": [
+        "moratorie"
+      ]
+    },
+    {
+      "source": "head",
+      "targets": [
+        "capo",
+        "testa"
+      ]
+    },
+    {
+      "source": "insurrection",
+      "targets": [
+        "insurrezione"
+      ]
+    },
+    {
+      "source": "ideologists",
+      "targets": [
+        "ideologi",
+        "ideologo"
+      ]
+    },
+    {
+      "source": "heal",
+      "targets": [
+        "guarire",
+        "rimarginare",
+        "sanare"
+      ]
+    },
+    {
+      "source": "pricked",
+      "targets": [
+        "tormentate"
+      ]
+    },
+    {
+      "source": "needles",
+      "targets": [
+        "aghi",
+        "siringhe"
+      ]
+    },
+    {
+      "source": "overburden",
+      "targets": [
+        "sovraccaricare"
+      ]
+    },
+    {
+      "source": "turtle",
+      "targets": [
+        "tartaruga"
+      ]
+    },
+    {
+      "source": "true",
+      "targets": [
+        "vero"
+      ]
+    },
+    {
+      "source": "vive",
+      "targets": [
+        "vive"
+      ]
+    },
+    {
+      "source": "veiled",
+      "targets": [
+        "velato"
+      ]
+    },
+    {
+      "source": "versions",
+      "targets": [
+        "versioni"
+      ]
+    },
+    {
+      "source": "pontificate",
+      "targets": [
+        "pontificare",
+        "pontificato"
+      ]
+    },
+    {
+      "source": "diagnose",
+      "targets": [
+        "diagnosticare"
+      ]
+    },
+    {
+      "source": "marburg",
+      "targets": [
+        "marburg"
+      ]
+    },
+    {
+      "source": "trio",
+      "targets": [
+        "triade",
+        "trio"
+      ]
+    },
+    {
+      "source": "sarcophagus",
+      "targets": [
+        "sarcofago"
+      ]
+    },
+    {
+      "source": "sticks",
+      "targets": [
+        "bastoni"
+      ]
+    },
+    {
+      "source": "cassis",
+      "targets": [
+        "cassis"
+      ]
+    },
+    {
+      "source": "abstract",
+      "targets": [
+        "astratta",
+        "astratte",
+        "astratto"
+      ]
+    },
+    {
+      "source": "despotism",
+      "targets": [
+        "dispotismo"
+      ]
+    },
+    {
+      "source": "check",
+      "targets": [
+        "check"
+      ]
+    },
+    {
+      "source": "dosages",
+      "targets": [
+        "dosaggi"
+      ]
+    },
+    {
+      "source": "ratko",
+      "targets": [
+        "ratko"
+      ]
+    },
+    {
+      "source": "disloyal",
+      "targets": [
+        "infedele"
+      ]
+    },
+    {
+      "source": "curiae",
+      "targets": [
+        "amicus"
+      ]
+    },
+    {
+      "source": "overturning",
+      "targets": [
+        "ribaltamento"
+      ]
+    },
+    {
+      "source": "nuance",
+      "targets": [
+        "sfumatura"
+      ]
+    },
+    {
+      "source": "toad",
+      "targets": [
+        "rospo"
+      ]
+    },
+    {
+      "source": "football",
+      "targets": [
+        "calcio",
+        "football"
+      ]
+    },
+    {
+      "source": "pagano",
+      "targets": [
+        "pagano"
+      ]
+    },
+    {
+      "source": "assiduous",
+      "targets": [
+        "assidua"
+      ]
+    },
+    {
+      "source": "russa",
+      "targets": [
+        "russa"
+      ]
+    },
+    {
+      "source": "spades",
+      "targets": [
+        "picconi"
+      ]
+    },
+    {
+      "source": "navel",
+      "targets": [
+        "ombelico"
+      ]
+    },
+    {
+      "source": "modules",
+      "targets": [
+        "moduli"
+      ]
+    },
+    {
+      "source": "bambi",
+      "targets": [
+        "bambi"
+      ]
+    },
+    {
+      "source": "profits",
+      "targets": [
+        "profitti"
+      ]
+    },
+    {
+      "source": "clairvoyants",
+      "targets": [
+        "chiaroveggenti"
+      ]
+    },
+    {
+      "source": "recalculation",
+      "targets": [
+        "ricalcolo"
+      ]
+    },
+    {
+      "source": "bombed",
+      "targets": [
+        "bombardata",
+        "bombardato"
+      ]
+    },
+    {
+      "source": "idealism",
+      "targets": [
+        "idealismo"
+      ]
+    },
+    {
+      "source": "aspe",
+      "targets": [
+        "aspe"
+      ]
+    },
+    {
+      "source": "industrialise",
+      "targets": [
+        "industrializzare"
+      ]
+    },
+    {
+      "source": "methodically",
+      "targets": [
+        "metodicamente"
+      ]
+    },
+    {
+      "source": "environment",
+      "targets": [
+        "ambiente"
+      ]
+    },
+    {
+      "source": "nasrallah",
+      "targets": [
+        "nasrallah"
+      ]
+    },
+    {
+      "source": "discovering",
+      "targets": [
+        "scoprendo"
+      ]
+    },
+    {
+      "source": "additionality",
+      "targets": [
+        "addizionalità"
+      ]
+    },
+    {
+      "source": "frequencies",
+      "targets": [
+        "frequenze"
+      ]
+    },
+    {
+      "source": "gestation",
+      "targets": [
+        "gestazione"
+      ]
+    },
+    {
+      "source": "olympus",
+      "targets": [
+        "olimpo"
+      ]
+    },
+    {
+      "source": "untenable",
+      "targets": [
+        "insostenibile"
+      ]
+    },
+    {
+      "source": "eeurope",
+      "targets": [
+        "eeurope"
+      ]
+    },
+    {
+      "source": "moura",
+      "targets": [
+        "moura"
+      ]
+    },
+    {
+      "source": "unbundled",
+      "targets": [
+        "disaggregati",
+        "disaggregato"
+      ]
+    },
+    {
+      "source": "philippines",
+      "targets": [
+        "filippine"
+      ]
+    },
+    {
+      "source": "accidentally",
+      "targets": [
+        "accidentalmente"
+      ]
+    },
+    {
+      "source": "standards",
+      "targets": [
+        "norme",
+        "standard"
+      ]
+    },
+    {
+      "source": "mortgaging",
+      "targets": [
+        "ipotecando",
+        "ipotecare"
+      ]
+    },
+    {
+      "source": "team",
+      "targets": [
+        "squadra"
+      ]
+    },
+    {
+      "source": "ruminants",
+      "targets": [
+        "ruminanti"
+      ]
+    },
+    {
+      "source": "guzzling",
+      "targets": [
+        "succhiano"
+      ]
+    },
+    {
+      "source": "upper",
+      "targets": [
+        "alta"
+      ]
+    },
+    {
+      "source": "aseptic",
+      "targets": [
+        "asettica"
+      ]
+    },
+    {
+      "source": "says",
+      "targets": [
+        "afferma",
+        "dice"
+      ]
+    },
+    {
+      "source": "crescent",
+      "targets": [
+        "luna",
+        "mezzaluna"
+      ]
+    },
+    {
+      "source": "sordid",
+      "targets": [
+        "sordida",
+        "sordido"
+      ]
+    },
+    {
+      "source": "parachuting",
+      "targets": [
+        "paracadutismo"
+      ]
+    },
+    {
+      "source": "educate",
+      "targets": [
+        "educare"
+      ]
+    },
+    {
+      "source": "masood",
+      "targets": [
+        "massud"
+      ]
+    },
+    {
+      "source": "servility",
+      "targets": [
+        "servilismo"
+      ]
+    },
+    {
+      "source": "suspect",
+      "targets": [
+        "sospetto"
+      ]
+    },
+    {
+      "source": "reply",
+      "targets": [
+        "risposta"
+      ]
+    },
+    {
+      "source": "paradoxical",
+      "targets": [
+        "paradossale"
+      ]
+    },
+    {
+      "source": "supporting",
+      "targets": [
+        "sostenendo",
+        "sostenere"
+      ]
+    },
+    {
+      "source": "hristo",
+      "targets": [
+        "hristo"
+      ]
+    },
+    {
+      "source": "amalgam",
+      "targets": [
+        "amalgama"
+      ]
+    },
+    {
+      "source": "lange",
+      "targets": [
+        "lange"
+      ]
+    },
+    {
+      "source": "giles",
+      "targets": [
+        "giles"
+      ]
+    },
+    {
+      "source": "ethnological",
+      "targets": [
+        "etnologico"
+      ]
+    },
+    {
+      "source": "renzo",
+      "targets": [
+        "renzo"
+      ]
+    },
+    {
+      "source": "charybdis",
+      "targets": [
+        "cariddi"
+      ]
+    },
+    {
+      "source": "cotonou",
+      "targets": [
+        "cotonou"
+      ]
+    },
+    {
+      "source": "tornio",
+      "targets": [
+        "tornio"
+      ]
+    },
+    {
+      "source": "extra",
+      "targets": [
+        "supplementari"
+      ]
+    },
+    {
+      "source": "colloquial",
+      "targets": [
+        "colloquiale",
+        "colloquiali"
+      ]
+    },
+    {
+      "source": "dioxin",
+      "targets": [
+        "diossina"
+      ]
+    },
+    {
+      "source": "contradictions",
+      "targets": [
+        "contraddizioni"
+      ]
+    },
+    {
+      "source": "nepalese",
+      "targets": [
+        "nepalese",
+        "nepalesi"
+      ]
+    },
+    {
+      "source": "should",
+      "targets": [
+        "deve",
+        "dovrebbe",
+        "dovrebbero"
+      ]
+    },
+    {
+      "source": "mobil",
+      "targets": [
+        "mobil"
+      ]
+    },
+    {
+      "source": "monterrey",
+      "targets": [
+        "monterrey"
+      ]
+    },
+    {
+      "source": "wealth",
+      "targets": [
+        "ricchezza"
+      ]
+    },
+    {
+      "source": "andy",
+      "targets": [
+        "andy"
+      ]
+    },
+    {
+      "source": "opposed",
+      "targets": [
+        "contrari"
+      ]
+    },
+    {
+      "source": "threefold",
+      "targets": [
+        "triplice"
+      ]
+    },
+    {
+      "source": "saks",
+      "targets": [
+        "saks"
+      ]
+    },
+    {
+      "source": "matera",
+      "targets": [
+        "matera"
+      ]
+    },
+    {
+      "source": "pushchairs",
+      "targets": [
+        "passeggini",
+        "passeggino"
+      ]
+    },
+    {
+      "source": "michèle",
+      "targets": [
+        "michèle"
+      ]
+    },
+    {
+      "source": "gadgets",
+      "targets": [
+        "gadget"
+      ]
+    },
+    {
+      "source": "preponderance",
+      "targets": [
+        "preponderanza"
+      ]
+    },
+    {
+      "source": "sanctified",
+      "targets": [
+        "acclamato"
+      ]
+    },
+    {
+      "source": "chastise",
+      "targets": [
+        "castigare"
+      ]
+    },
+    {
+      "source": "harmonious",
+      "targets": [
+        "armoniosa",
+        "armonioso"
+      ]
+    },
+    {
+      "source": "following",
+      "targets": [
+        "seguenti"
+      ]
+    },
+    {
+      "source": "deceased",
+      "targets": [
+        "deceduti",
+        "deceduto",
+        "defunto"
+      ]
+    },
+    {
+      "source": "deservedly",
+      "targets": [
+        "meritatamente"
+      ]
+    },
+    {
+      "source": "classrooms",
+      "targets": [
+        "aule"
+      ]
+    },
+    {
+      "source": "trump",
+      "targets": [
+        "vincenti"
+      ]
+    },
+    {
+      "source": "unbundling",
+      "targets": [
+        "disaggregazione"
+      ]
+    },
+    {
+      "source": "paediatricians",
+      "targets": [
+        "pediatri"
+      ]
+    },
+    {
+      "source": "distillation",
+      "targets": [
+        "distillazione"
+      ]
+    },
+    {
+      "source": "franconian",
+      "targets": [
+        "francone"
+      ]
+    },
+    {
+      "source": "spe",
+      "targets": [
+        "spe"
+      ]
+    },
+    {
+      "source": "inflows",
+      "targets": [
+        "afflussi"
+      ]
+    },
+    {
+      "source": "savoy",
+      "targets": [
+        "savoia"
+      ]
+    },
+    {
+      "source": "mongols",
+      "targets": [
+        "mongoli"
+      ]
+    },
+    {
+      "source": "tatters",
+      "targets": [
+        "brandelli",
+        "frantumi"
+      ]
+    },
+    {
+      "source": "edinburgh",
+      "targets": [
+        "edimburgo"
+      ]
+    },
+    {
+      "source": "product",
+      "targets": [
+        "prodotto"
+      ]
+    },
+    {
+      "source": "marketability",
+      "targets": [
+        "commerciabilità"
+      ]
+    },
+    {
+      "source": "aom",
+      "targets": [
+        "aom"
+      ]
+    },
+    {
+      "source": "sweeney",
+      "targets": [
+        "sweeney"
+      ]
+    },
+    {
+      "source": "deforestation",
+      "targets": [
+        "deforestazione"
+      ]
+    },
+    {
+      "source": "privatise",
+      "targets": [
+        "privatizzare"
+      ]
+    },
+    {
+      "source": "revealed",
+      "targets": [
+        "rivelato"
+      ]
+    },
+    {
+      "source": "natural",
+      "targets": [
+        "naturale",
+        "naturali"
+      ]
+    },
+    {
+      "source": "berets",
+      "targets": [
+        "caschi"
+      ]
+    },
+    {
+      "source": "beazley",
+      "targets": [
+        "beazley"
+      ]
+    },
+    {
+      "source": "deposit",
+      "targets": [
+        "deposit",
+        "deposito"
+      ]
+    },
+    {
+      "source": "papadopoulos",
+      "targets": [
+        "papadopoulos"
+      ]
+    },
+    {
+      "source": "typical",
+      "targets": [
+        "tipica",
+        "tipico"
+      ]
+    },
+    {
+      "source": "nanterre",
+      "targets": [
+        "nanterre"
+      ]
+    },
+    {
+      "source": "subsections",
+      "targets": [
+        "sottosezioni"
+      ]
+    },
+    {
+      "source": "experiments",
+      "targets": [
+        "esperimenti"
+      ]
+    },
+    {
+      "source": "cold",
+      "targets": [
+        "fredda",
+        "freddo"
+      ]
+    },
+    {
+      "source": "daghestan",
+      "targets": [
+        "daghestan"
+      ]
+    },
+    {
+      "source": "irresolute",
+      "targets": [
+        "velleitarie"
+      ]
+    },
+    {
+      "source": "cola",
+      "targets": [
+        "cola"
+      ]
+    },
+    {
+      "source": "caucasus",
+      "targets": [
+        "caucaso"
+      ]
+    },
+    {
+      "source": "councillor",
+      "targets": [
+        "consigliere"
+      ]
+    },
+    {
+      "source": "aviv",
+      "targets": [
+        "aviv"
+      ]
+    },
+    {
+      "source": "pashtun",
+      "targets": [
+        "pashtun"
+      ]
+    },
+    {
+      "source": "ogoni",
+      "targets": [
+        "ogoni"
+      ]
+    },
+    {
+      "source": "fukuyama",
+      "targets": [
+        "fukuyama"
+      ]
+    },
+    {
+      "source": "guillotined",
+      "targets": [
+        "sbarrata"
+      ]
+    },
+    {
+      "source": "wagon",
+      "targets": [
+        "vagone"
+      ]
+    },
+    {
+      "source": "shouted",
+      "targets": [
+        "sbandierato",
+        "subissato"
+      ]
+    },
+    {
+      "source": "lyudmila",
+      "targets": [
+        "ljudmila"
+      ]
+    },
+    {
+      "source": "individually",
+      "targets": [
+        "individualmente",
+        "singolarmente"
+      ]
+    },
+    {
+      "source": "gerontology",
+      "targets": [
+        "gerontologia"
+      ]
+    },
+    {
+      "source": "classifying",
+      "targets": [
+        "classificare"
+      ]
+    },
+    {
+      "source": "bookshop",
+      "targets": [
+        "libraio",
+        "libreria"
+      ]
+    },
+    {
+      "source": "treacherous",
+      "targets": [
+        "perfida"
+      ]
+    },
+    {
+      "source": "sponsor",
+      "targets": [
+        "sponsor"
+      ]
+    },
+    {
+      "source": "agis",
+      "targets": [
+        "agis"
+      ]
+    },
+    {
+      "source": "thoroughness",
+      "targets": [
+        "accuratezza"
+      ]
+    },
+    {
+      "source": "nominalism",
+      "targets": [
+        "nominalismo"
+      ]
+    },
+    {
+      "source": "space",
+      "targets": [
+        "spaziale",
+        "spazio"
+      ]
+    },
+    {
+      "source": "inadequacy",
+      "targets": [
+        "inadeguatezza",
+        "insufficienza"
+      ]
+    },
+    {
+      "source": "profanation",
+      "targets": [
+        "sacrilegio"
+      ]
+    },
+    {
+      "source": "rational",
+      "targets": [
+        "razionale",
+        "razionali"
+      ]
+    },
+    {
+      "source": "correct",
+      "targets": [
+        "corretta",
+        "corretto"
+      ]
+    },
+    {
+      "source": "demoralization",
+      "targets": [
+        "demoralizzazione"
+      ]
+    },
+    {
+      "source": "complicates",
+      "targets": [
+        "complica"
+      ]
+    },
+    {
+      "source": "mechanisms",
+      "targets": [
+        "meccanismi"
+      ]
+    },
+    {
+      "source": "marino",
+      "targets": [
+        "marino"
+      ]
+    },
+    {
+      "source": "stefano",
+      "targets": [
+        "stefano"
+      ]
+    },
+    {
+      "source": "accommodation",
+      "targets": [
+        "alloggio"
+      ]
+    },
+    {
+      "source": "unwin",
+      "targets": [
+        "unwin"
+      ]
+    },
+    {
+      "source": "ministry",
+      "targets": [
+        "ministero"
+      ]
+    },
+    {
+      "source": "thing",
+      "targets": [
+        "cosa"
+      ]
+    },
+    {
+      "source": "quibble",
+      "targets": [
+        "traffica"
+      ]
+    },
+    {
+      "source": "spoken",
+      "targets": [
+        "intervenuti",
+        "parlato"
+      ]
+    },
+    {
+      "source": "petulant",
+      "targets": [
+        "capriccioso"
+      ]
+    },
+    {
+      "source": "reintroduction",
+      "targets": [
+        "reintroduzione"
+      ]
+    },
+    {
+      "source": "gases",
+      "targets": [
+        "gas"
+      ]
+    },
+    {
+      "source": "unattainable",
+      "targets": [
+        "irraggiungibile",
+        "irraggiungibili"
+      ]
+    },
+    {
+      "source": "rented",
+      "targets": [
+        "affitto"
+      ]
+    },
+    {
+      "source": "bogotá",
+      "targets": [
+        "bogotà",
+        "bogotá"
+      ]
+    },
+    {
+      "source": "lightened",
+      "targets": [
+        "alleggerito",
+        "alleviata"
+      ]
+    },
+    {
+      "source": "ribeira",
+      "targets": [
+        "ribeira"
+      ]
+    },
+    {
+      "source": "separatists",
+      "targets": [
+        "separatisti"
+      ]
+    },
+    {
+      "source": "walid",
+      "targets": [
+        "walid"
+      ]
+    },
+    {
+      "source": "thar",
+      "targets": [
+        "thar"
+      ]
+    },
+    {
+      "source": "unobtainable",
+      "targets": [
+        "ottenibili"
+      ]
+    },
+    {
+      "source": "massaged",
+      "targets": [
+        "truccato"
+      ]
+    },
+    {
+      "source": "capitalists",
+      "targets": [
+        "capitalisti"
+      ]
+    },
+    {
+      "source": "montenegro",
+      "targets": [
+        "montenegro"
+      ]
+    },
+    {
+      "source": "cults",
+      "targets": [
+        "culti"
+      ]
+    },
+    {
+      "source": "spas",
+      "targets": [
+        "termali"
+      ]
+    },
+    {
+      "source": "interreg",
+      "targets": [
+        "interreg"
+      ]
+    },
+    {
+      "source": "appreciated",
+      "targets": [
+        "apprezzata",
+        "apprezzato"
+      ]
+    },
+    {
+      "source": "boyfriend",
+      "targets": [
+        "fidanzato"
+      ]
+    },
+    {
+      "source": "lucent",
+      "targets": [
+        "lucent"
+      ]
+    },
+    {
+      "source": "television",
+      "targets": [
+        "televisione"
+      ]
+    },
+    {
+      "source": "colombians",
+      "targets": [
+        "colombiani"
+      ]
+    },
+    {
+      "source": "oath",
+      "targets": [
+        "giuramento"
+      ]
+    },
+    {
+      "source": "damned",
+      "targets": [
+        "dannati"
+      ]
+    },
+    {
+      "source": "homogenising",
+      "targets": [
+        "omogeneizzazione",
+        "uniformando"
+      ]
+    },
+    {
+      "source": "koranic",
+      "targets": [
+        "coranica",
+        "coraniche"
+      ]
+    },
+    {
+      "source": "ann",
+      "targets": [
+        "ann"
+      ]
+    },
+    {
+      "source": "incontestable",
+      "targets": [
+        "incontestabili"
+      ]
+    },
+    {
+      "source": "pastime",
+      "targets": [
+        "passatempo"
+      ]
+    },
+    {
+      "source": "invalidates",
+      "targets": [
+        "invalida"
+      ]
+    },
+    {
+      "source": "efficient",
+      "targets": [
+        "efficiente",
+        "efficienti"
+      ]
+    },
+    {
+      "source": "warriors",
+      "targets": [
+        "guerrieri"
+      ]
+    },
+    {
+      "source": "chessboard",
+      "targets": [
+        "scacchiera"
+      ]
+    },
+    {
+      "source": "malta",
+      "targets": [
+        "malta"
+      ]
+    },
+    {
+      "source": "animation",
+      "targets": [
+        "animazione"
+      ]
+    },
+    {
+      "source": "bishops",
+      "targets": [
+        "vescovi"
+      ]
+    },
+    {
+      "source": "failure",
+      "targets": [
+        "fallimento"
+      ]
+    },
+    {
+      "source": "maoist",
+      "targets": [
+        "maoista",
+        "maoisti"
+      ]
+    },
+    {
+      "source": "massacres",
+      "targets": [
+        "massacri"
+      ]
+    },
+    {
+      "source": "shop",
+      "targets": [
+        "negozio",
+        "shop"
+      ]
+    },
+    {
+      "source": "antioquia",
+      "targets": [
+        "antioquia"
+      ]
+    },
+    {
+      "source": "diktat",
+      "targets": [
+        "diktat"
+      ]
+    },
+    {
+      "source": "peaches",
+      "targets": [
+        "pesche"
+      ]
+    },
+    {
+      "source": "venetians",
+      "targets": [
+        "veneti"
+      ]
+    },
+    {
+      "source": "nlg",
+      "targets": [
+        "fiorini"
+      ]
+    },
+    {
+      "source": "demonising",
+      "targets": [
+        "demonizzare",
+        "demonizzazione"
+      ]
+    },
+    {
+      "source": "melchior",
+      "targets": [
+        "melchior"
+      ]
+    },
+    {
+      "source": "gulf",
+      "targets": [
+        "abisso",
+        "golfo"
+      ]
+    },
+    {
+      "source": "principality",
+      "targets": [
+        "principato"
+      ]
+    },
+    {
+      "source": "apulia",
+      "targets": [
+        "puglia"
+      ]
+    },
+    {
+      "source": "madeline",
+      "targets": [
+        "madeline"
+      ]
+    },
+    {
+      "source": "posted",
+      "targets": [
+        "distaccati"
+      ]
+    },
+    {
+      "source": "alternation",
+      "targets": [
+        "alternanza"
+      ]
+    },
+    {
+      "source": "hostage",
+      "targets": [
+        "ostaggio"
+      ]
+    },
+    {
+      "source": "samuel",
+      "targets": [
+        "samuel"
+      ]
+    },
+    {
+      "source": "killers",
+      "targets": [
+        "killer"
+      ]
+    },
+    {
+      "source": "infallible",
+      "targets": [
+        "infallibile",
+        "infallibili"
+      ]
+    },
+    {
+      "source": "dehydrating",
+      "targets": [
+        "disidratazione"
+      ]
+    },
+    {
+      "source": "dowry",
+      "targets": [
+        "dote"
+      ]
+    },
+    {
+      "source": "segni",
+      "targets": [
+        "segni"
+      ]
+    },
+    {
+      "source": "malaysian",
+      "targets": [
+        "malese",
+        "malesi"
+      ]
+    },
+    {
+      "source": "democratised",
+      "targets": [
+        "democratizzato"
+      ]
+    },
+    {
+      "source": "homeopathy",
+      "targets": [
+        "omeopatia"
+      ]
+    },
+    {
+      "source": "declared",
+      "targets": [
+        "dichiarato"
+      ]
+    },
+    {
+      "source": "nouveaux",
+      "targets": [
+        "nouveaux"
+      ]
+    },
+    {
+      "source": "guterres",
+      "targets": [
+        "guterres"
+      ]
+    },
+    {
+      "source": "college",
+      "targets": [
+        "accademia",
+        "collegio"
+      ]
+    },
+    {
+      "source": "recalcitrant",
+      "targets": [
+        "recalcitranti"
+      ]
+    },
+    {
+      "source": "sport",
+      "targets": [
+        "sport"
+      ]
+    },
+    {
+      "source": "squandering",
+      "targets": [
+        "sperpero"
+      ]
+    },
+    {
+      "source": "zola",
+      "targets": [
+        "zola"
+      ]
+    },
+    {
+      "source": "giulia",
+      "targets": [
+        "giulia"
+      ]
+    },
+    {
+      "source": "sites",
+      "targets": [
+        "siti"
+      ]
+    },
+    {
+      "source": "enough",
+      "targets": [
+        "abbastanza",
+        "sufficiente"
+      ]
+    },
+    {
+      "source": "jti",
+      "targets": [
+        "itc"
+      ]
+    },
+    {
+      "source": "roots",
+      "targets": [
+        "radici"
+      ]
+    },
+    {
+      "source": "isfahan",
+      "targets": [
+        "isfahan"
+      ]
+    },
+    {
+      "source": "turbot",
+      "targets": [
+        "rombo"
+      ]
+    },
+    {
+      "source": "unlocks",
+      "targets": [
+        "sbloccherà"
+      ]
+    },
+    {
+      "source": "screen",
+      "targets": [
+        "schermo"
+      ]
+    },
+    {
+      "source": "concentrated",
+      "targets": [
+        "concentrati",
+        "concentrato"
+      ]
+    },
+    {
+      "source": "contract",
+      "targets": [
+        "contratto",
+        "contrattuale"
+      ]
+    },
+    {
+      "source": "stigmatising",
+      "targets": [
+        "stigmatizzare"
+      ]
+    },
+    {
+      "source": "lumumba",
+      "targets": [
+        "lumumba"
+      ]
+    },
+    {
+      "source": "passenger",
+      "targets": [
+        "passeggeri"
+      ]
+    },
+    {
+      "source": "overview",
+      "targets": [
+        "panoramica"
+      ]
+    },
+    {
+      "source": "basilica",
+      "targets": [
+        "basilica"
+      ]
+    },
+    {
+      "source": "pop",
+      "targets": [
+        "pop"
+      ]
+    },
+    {
+      "source": "rafah",
+      "targets": [
+        "rafah"
+      ]
+    },
+    {
+      "source": "poli",
+      "targets": [
+        "poli"
+      ]
+    },
+    {
+      "source": "rebuild",
+      "targets": [
+        "ricostruire"
+      ]
+    },
+    {
+      "source": "brueghel",
+      "targets": [
+        "bruegel"
+      ]
+    },
+    {
+      "source": "almighty",
+      "targets": [
+        "onnipotente"
+      ]
+    },
+    {
+      "source": "constituencies",
+      "targets": [
+        "circoscrizioni"
+      ]
+    },
+    {
+      "source": "helicopter",
+      "targets": [
+        "elicotteri",
+        "elicottero"
+      ]
+    },
+    {
+      "source": "mary",
+      "targets": [
+        "mary"
+      ]
+    },
+    {
+      "source": "avian",
+      "targets": [
+        "aviaria"
+      ]
+    },
+    {
+      "source": "enable",
+      "targets": [
+        "consentire"
+      ]
+    },
+    {
+      "source": "deontological",
+      "targets": [
+        "deontologiche"
+      ]
+    },
+    {
+      "source": "wounds",
+      "targets": [
+        "ferite"
+      ]
+    },
+    {
+      "source": "beckenbauer",
+      "targets": [
+        "beckenbauer"
+      ]
+    },
+    {
+      "source": "abdicating",
+      "targets": [
+        "abdicando"
+      ]
+    },
+    {
+      "source": "vecchi",
+      "targets": [
+        "vecchi"
+      ]
+    },
+    {
+      "source": "crowley",
+      "targets": [
+        "crowley"
+      ]
+    },
+    {
+      "source": "promising",
+      "targets": [
+        "promettente",
+        "promettenti"
+      ]
+    },
+    {
+      "source": "shops",
+      "targets": [
+        "negozi"
+      ]
+    },
+    {
+      "source": "valery",
+      "targets": [
+        "valery"
+      ]
+    },
+    {
+      "source": "implacable",
+      "targets": [
+        "implacabile",
+        "implacabili"
+      ]
+    },
+    {
+      "source": "transgressions",
+      "targets": [
+        "trasgressioni"
+      ]
+    },
+    {
+      "source": "strait",
+      "targets": [
+        "bocche",
+        "stretto",
+        "striminzita"
+      ]
+    },
+    {
+      "source": "reignited",
+      "targets": [
+        "riaccesa"
+      ]
+    },
+    {
+      "source": "sahara",
+      "targets": [
+        "sahara"
+      ]
+    },
+    {
+      "source": "limping",
+      "targets": [
+        "zoppicante"
+      ]
+    },
+    {
+      "source": "brok",
+      "targets": [
+        "brok"
+      ]
+    },
+    {
+      "source": "allawi",
+      "targets": [
+        "allawi"
+      ]
+    },
+    {
+      "source": "different",
+      "targets": [
+        "diverse",
+        "diversi"
+      ]
+    },
+    {
+      "source": "samo",
+      "targets": [
+        "samo"
+      ]
+    },
+    {
+      "source": "halogenated",
+      "targets": [
+        "alogenati"
+      ]
+    },
+    {
+      "source": "same",
+      "targets": [
+        "stessa",
+        "stesso"
+      ]
+    },
+    {
+      "source": "inquiry",
+      "targets": [
+        "inchiesta",
+        "indagine"
+      ]
+    },
+    {
+      "source": "graft",
+      "targets": [
+        "concussione"
+      ]
+    },
+    {
+      "source": "weee",
+      "targets": [
+        "raee"
+      ]
+    },
+    {
+      "source": "disincentives",
+      "targets": [
+        "disincentivi"
+      ]
+    },
+    {
+      "source": "walesa",
+      "targets": [
+        "walesa"
+      ]
+    },
+    {
+      "source": "extender",
+      "targets": [
+        "diluenti"
+      ]
+    },
+    {
+      "source": "totally",
+      "targets": [
+        "totalmente"
+      ]
+    },
+    {
+      "source": "mentally",
+      "targets": [
+        "mentali",
+        "mentalmente"
+      ]
+    },
+    {
+      "source": "inés",
+      "targets": [
+        "inés"
+      ]
+    },
+    {
+      "source": "intermittent",
+      "targets": [
+        "intermittente"
+      ]
+    },
+    {
+      "source": "maltreated",
+      "targets": [
+        "maltrattate"
+      ]
+    },
+    {
+      "source": "ccs",
+      "targets": [
+        "ccs"
+      ]
+    },
+    {
+      "source": "researchers",
+      "targets": [
+        "ricercatori"
+      ]
+    },
+    {
+      "source": "desolate",
+      "targets": [
+        "desolati"
+      ]
+    },
+    {
+      "source": "livestock",
+      "targets": [
+        "bestiame"
+      ]
+    },
+    {
+      "source": "money",
+      "targets": [
+        "denaro",
+        "fondi",
+        "money"
+      ]
+    },
+    {
+      "source": "bercy",
+      "targets": [
+        "bercy"
+      ]
+    },
+    {
+      "source": "exaggerating",
+      "targets": [
+        "esagerando"
+      ]
+    },
+    {
+      "source": "valuable",
+      "targets": [
+        "preziosa",
+        "prezioso"
+      ]
+    },
+    {
+      "source": "roxana",
+      "targets": [
+        "roxana"
+      ]
+    },
+    {
+      "source": "internalising",
+      "targets": [
+        "internalizzare"
+      ]
+    },
+    {
+      "source": "barbados",
+      "targets": [
+        "barbados"
+      ]
+    },
+    {
+      "source": "tirade",
+      "targets": [
+        "invettiva"
+      ]
+    },
+    {
+      "source": "provocatively",
+      "targets": [
+        "provocatoriamente"
+      ]
+    },
+    {
+      "source": "thinking",
+      "targets": [
+        "pensiero"
+      ]
+    },
+    {
+      "source": "montalvo",
+      "targets": [
+        "montalvo"
+      ]
+    },
+    {
+      "source": "hélène",
+      "targets": [
+        "hélène"
+      ]
+    },
+    {
+      "source": "silicones",
+      "targets": [
+        "siliconi"
+      ]
+    },
+    {
+      "source": "feminism",
+      "targets": [
+        "femminismo"
+      ]
+    },
+    {
+      "source": "kursk",
+      "targets": [
+        "kursk"
+      ]
+    },
+    {
+      "source": "offence",
+      "targets": [
+        "reato"
+      ]
+    },
+    {
+      "source": "mop",
+      "targets": [
+        "mop"
+      ]
+    },
+    {
+      "source": "virginia",
+      "targets": [
+        "virginia"
+      ]
+    },
+    {
+      "source": "traffic",
+      "targets": [
+        "traffico"
+      ]
+    },
+    {
+      "source": "mol",
+      "targets": [
+        "mol"
+      ]
+    },
+    {
+      "source": "boycotted",
+      "targets": [
+        "boicottata",
+        "boicottate",
+        "boicottato"
+      ]
+    },
+    {
+      "source": "legalised",
+      "targets": [
+        "legalizzato"
+      ]
+    },
+    {
+      "source": "arsonist",
+      "targets": [
+        "piromane"
+      ]
+    },
+    {
+      "source": "benefit",
+      "targets": [
+        "beneficio",
+        "vantaggio"
+      ]
+    },
+    {
+      "source": "clay",
+      "targets": [
+        "argilla",
+        "argillosi"
+      ]
+    },
+    {
+      "source": "voluntarily",
+      "targets": [
+        "volontariamente"
+      ]
+    },
+    {
+      "source": "contestable",
+      "targets": [
+        "contestabili"
+      ]
+    },
+    {
+      "source": "laissez",
+      "targets": [
+        "laissez"
+      ]
+    },
+    {
+      "source": "unmentionable",
+      "targets": [
+        "impronunciabile"
+      ]
+    },
+    {
+      "source": "reconsider",
+      "targets": [
+        "riconsiderare"
+      ]
+    },
+    {
+      "source": "racial",
+      "targets": [
+        "razziale",
+        "razziali"
+      ]
+    },
+    {
+      "source": "inflexibility",
+      "targets": [
+        "inflessibilità",
+        "rigidità"
+      ]
+    },
+    {
+      "source": "symbiotic",
+      "targets": [
+        "simbiotico"
+      ]
+    },
+    {
+      "source": "critical",
+      "targets": [
+        "critica",
+        "critiche",
+        "critico"
+      ]
+    },
+    {
+      "source": "circumnavigate",
+      "targets": [
+        "circumnavigare"
+      ]
+    },
+    {
+      "source": "euskadi",
+      "targets": [
+        "euskadi"
+      ]
+    },
+    {
+      "source": "reactivating",
+      "targets": [
+        "riattivazione"
+      ]
+    },
+    {
+      "source": "welcome",
+      "targets": [
+        "accogliamo",
+        "benvenuto",
+        "diamo"
+      ]
+    },
+    {
+      "source": "valletta",
+      "targets": [
+        "valletta"
+      ]
+    },
+    {
+      "source": "olof",
+      "targets": [
+        "olof"
+      ]
+    },
+    {
+      "source": "airways",
+      "targets": [
+        "airways"
+      ]
+    },
+    {
+      "source": "disinformation",
+      "targets": [
+        "disinformazione"
+      ]
+    },
+    {
+      "source": "chefs",
+      "targets": [
+        "cuochi"
+      ]
+    },
+    {
+      "source": "resurrection",
+      "targets": [
+        "resurrezione"
+      ]
+    },
+    {
+      "source": "francis",
+      "targets": [
+        "francesco",
+        "francis"
+      ]
+    },
+    {
+      "source": "finicky",
+      "targets": [
+        "meticolosi",
+        "pignola"
+      ]
+    },
+    {
+      "source": "creaking",
+      "targets": [
+        "elefantiaca"
+      ]
+    },
+    {
+      "source": "reprisals",
+      "targets": [
+        "rappresaglie",
+        "ritorsioni"
+      ]
+    },
+    {
+      "source": "latrines",
+      "targets": [
+        "latrine"
+      ]
+    },
+    {
+      "source": "stony",
+      "targets": [
+        "disagevole"
+      ]
+    },
+    {
+      "source": "kabylie",
+      "targets": [
+        "cabilia"
+      ]
+    },
+    {
+      "source": "image",
+      "targets": [
+        "immagine"
+      ]
+    },
+    {
+      "source": "duarte",
+      "targets": [
+        "duarte"
+      ]
+    },
+    {
+      "source": "accounts",
+      "targets": [
+        "conti"
+      ]
+    },
+    {
+      "source": "rossa",
+      "targets": [
+        "rossa"
+      ]
+    },
+    {
+      "source": "bjp",
+      "targets": [
+        "bjp"
+      ]
+    },
+    {
+      "source": "elementary",
+      "targets": [
+        "elementare",
+        "elementari"
+      ]
+    },
+    {
+      "source": "theoretically",
+      "targets": [
+        "teoricamente"
+      ]
+    },
+    {
+      "source": "chios",
+      "targets": [
+        "chios"
+      ]
+    },
+    {
+      "source": "habitability",
+      "targets": [
+        "abitabilità"
+      ]
+    },
+    {
+      "source": "canteens",
+      "targets": [
+        "mense"
+      ]
+    },
+    {
+      "source": "inadvertent",
+      "targets": [
+        "involontaria",
+        "involontario"
+      ]
+    },
+    {
+      "source": "idriss",
+      "targets": [
+        "idriss"
+      ]
+    },
+    {
+      "source": "jigsaw",
+      "targets": [
+        "puzzle"
+      ]
+    },
+    {
+      "source": "bankrupted",
+      "targets": [
+        "cagionato"
+      ]
+    },
+    {
+      "source": "cats",
+      "targets": [
+        "gatti"
+      ]
+    },
+    {
+      "source": "caboodle",
+      "targets": [
+        "caravanserraglio"
+      ]
+    },
+    {
+      "source": "valley",
+      "targets": [
+        "valle"
+      ]
+    },
+    {
+      "source": "vested",
+      "targets": [
+        "costituiti"
+      ]
+    },
+    {
+      "source": "jiabao",
+      "targets": [
+        "jiabao"
+      ]
+    },
+    {
+      "source": "fastidious",
+      "targets": [
+        "puntigliosi"
+      ]
+    },
+    {
+      "source": "inflaming",
+      "targets": [
+        "infiammando"
+      ]
+    },
+    {
+      "source": "dorado",
+      "targets": [
+        "eldorado"
+      ]
+    },
+    {
+      "source": "megawati",
+      "targets": [
+        "megawati"
+      ]
+    },
+    {
+      "source": "bucket",
+      "targets": [
+        "bidone",
+        "secchio"
+      ]
+    },
+    {
+      "source": "aceh",
+      "targets": [
+        "aceh"
+      ]
+    },
+    {
+      "source": "citizenship",
+      "targets": [
+        "cittadinanza"
+      ]
+    },
+    {
+      "source": "countermeasures",
+      "targets": [
+        "contromisure"
+      ]
+    },
+    {
+      "source": "umar",
+      "targets": [
+        "umar"
+      ]
+    },
+    {
+      "source": "mutuals",
+      "targets": [
+        "mutue"
+      ]
+    },
+    {
+      "source": "acer",
+      "targets": [
+        "acer"
+      ]
+    },
+    {
+      "source": "yom",
+      "targets": [
+        "yom"
+      ]
+    },
+    {
+      "source": "intercontinental",
+      "targets": [
+        "intercontinentale",
+        "intercontinentali"
+      ]
+    },
+    {
+      "source": "probative",
+      "targets": [
+        "probatorio"
+      ]
+    },
+    {
+      "source": "puppy",
+      "targets": [
+        "cagnolino",
+        "cucciolo"
+      ]
+    },
+    {
+      "source": "disgraceful",
+      "targets": [
+        "vergognoso"
+      ]
+    },
+    {
+      "source": "conspiracies",
+      "targets": [
+        "congiure",
+        "cospirazioni"
+      ]
+    },
+    {
+      "source": "fluorinated",
+      "targets": [
+        "fluorurati"
+      ]
+    },
+    {
+      "source": "despoil",
+      "targets": [
+        "vivai"
+      ]
+    },
+    {
+      "source": "seriousness",
+      "targets": [
+        "gravità",
+        "serietà"
+      ]
+    },
+    {
+      "source": "sudeten",
+      "targets": [
+        "sudeti"
+      ]
+    },
+    {
+      "source": "fiscal",
+      "targets": [
+        "fiscale",
+        "fiscali"
+      ]
+    },
+    {
+      "source": "booked",
+      "targets": [
+        "prenotato"
+      ]
+    },
+    {
+      "source": "sardine",
+      "targets": [
+        "sardina",
+        "sardine"
+      ]
+    },
+    {
+      "source": "chandrika",
+      "targets": [
+        "chandrika"
+      ]
+    },
+    {
+      "source": "parallelism",
+      "targets": [
+        "parallelismo"
+      ]
+    },
+    {
+      "source": "directory",
+      "targets": [
+        "annuario"
+      ]
+    },
+    {
+      "source": "signalling",
+      "targets": [
+        "segnalamento"
+      ]
+    },
+    {
+      "source": "carcassonne",
+      "targets": [
+        "carcassonne"
+      ]
+    },
+    {
+      "source": "represent",
+      "targets": [
+        "rappresentano",
+        "rappresentare"
+      ]
+    },
+    {
+      "source": "semantic",
+      "targets": [
+        "semantica",
+        "semantiche",
+        "semantico"
+      ]
+    },
+    {
+      "source": "exhibitions",
+      "targets": [
+        "esposizioni",
+        "mostre"
+      ]
+    },
+    {
+      "source": "chinese",
+      "targets": [
+        "cinese",
+        "cinesi"
+      ]
+    },
+    {
+      "source": "washed",
+      "targets": [
+        "lavato"
+      ]
+    },
+    {
+      "source": "worms",
+      "targets": [
+        "vermi"
+      ]
+    },
+    {
+      "source": "disc",
+      "targets": [
+        "disc"
+      ]
+    },
+    {
+      "source": "rosales",
+      "targets": [
+        "rosales"
+      ]
+    },
+    {
+      "source": "correa",
+      "targets": [
+        "correa"
+      ]
+    },
+    {
+      "source": "immanuel",
+      "targets": [
+        "immanuel"
+      ]
+    },
+    {
+      "source": "mutatis",
+      "targets": [
+        "mutatis"
+      ]
+    },
+    {
+      "source": "kumaratunga",
+      "targets": [
+        "kumaratunga"
+      ]
+    },
+    {
+      "source": "woman",
+      "targets": [
+        "donna"
+      ]
+    },
+    {
+      "source": "regularise",
+      "targets": [
+        "regolarizzare"
+      ]
+    },
+    {
+      "source": "popularisation",
+      "targets": [
+        "divulgando"
+      ]
+    },
+    {
+      "source": "leonidas",
+      "targets": [
+        "leonidas"
+      ]
+    },
+    {
+      "source": "generalised",
+      "targets": [
+        "generalizzata",
+        "generalizzate",
+        "generalizzato"
+      ]
+    },
+    {
+      "source": "neurological",
+      "targets": [
+        "neurologica",
+        "neurologiche",
+        "neurologici"
+      ]
+    },
+    {
+      "source": "hinterland",
+      "targets": [
+        "entroterra"
+      ]
+    },
+    {
+      "source": "washing",
+      "targets": [
+        "lavaggio",
+        "lavare",
+        "lavarsi"
+      ]
+    },
+    {
+      "source": "cable",
+      "targets": [
+        "cavo"
+      ]
+    },
+    {
+      "source": "applicable",
+      "targets": [
+        "applicabile",
+        "applicabili"
+      ]
+    },
+    {
+      "source": "lisi",
+      "targets": [
+        "lisi"
+      ]
+    },
+    {
+      "source": "damper",
+      "targets": [
+        "granello"
+      ]
+    },
+    {
+      "source": "rebuffs",
+      "targets": [
+        "rovesci"
+      ]
+    },
+    {
+      "source": "mirza",
+      "targets": [
+        "mirza"
+      ]
+    },
+    {
+      "source": "revolutionise",
+      "targets": [
+        "rivoluzionare"
+      ]
+    },
+    {
+      "source": "past",
+      "targets": [
+        "passato",
+        "ultimi"
+      ]
+    },
+    {
+      "source": "titles",
+      "targets": [
+        "titoli"
+      ]
+    },
+    {
+      "source": "tep",
+      "targets": [
+        "tep"
+      ]
+    },
+    {
+      "source": "further",
+      "targets": [
+        "ulteriore",
+        "ulteriori",
+        "ulteriormente"
+      ]
+    },
+    {
+      "source": "defence",
+      "targets": [
+        "difesa"
+      ]
+    },
+    {
+      "source": "zealots",
+      "targets": [
+        "zelanti"
+      ]
+    },
+    {
+      "source": "diaz",
+      "targets": [
+        "diaz"
+      ]
+    },
+    {
+      "source": "egalitarianism",
+      "targets": [
+        "egualitarismo"
+      ]
+    },
+    {
+      "source": "madrasahs",
+      "targets": [
+        "madrasa"
+      ]
+    },
+    {
+      "source": "lactating",
+      "targets": [
+        "allattano"
+      ]
+    },
+    {
+      "source": "prognoses",
+      "targets": [
+        "prognosi"
+      ]
+    },
+    {
+      "source": "benes",
+      "targets": [
+        "benes"
+      ]
+    },
+    {
+      "source": "jaruzelski",
+      "targets": [
+        "jaruzelski"
+      ]
+    },
+    {
+      "source": "hours",
+      "targets": [
+        "ore"
+      ]
+    },
+    {
+      "source": "sender",
+      "targets": [
+        "mittente",
+        "sender"
+      ]
+    },
+    {
+      "source": "outposts",
+      "targets": [
+        "avamposti"
+      ]
+    },
+    {
+      "source": "published",
+      "targets": [
+        "pubblicata",
+        "pubblicato"
+      ]
+    },
+    {
+      "source": "jrc",
+      "targets": [
+        "ccr"
+      ]
+    },
+    {
+      "source": "buses",
+      "targets": [
+        "autobus"
+      ]
+    },
+    {
+      "source": "aptitude",
+      "targets": [
+        "attitudinale",
+        "attitudinali",
+        "attitudine"
+      ]
+    },
+    {
+      "source": "sanction",
+      "targets": [
+        "sanzione"
+      ]
+    },
+    {
+      "source": "seventeenth",
+      "targets": [
+        "diciassettesima",
+        "diciassettesimo"
+      ]
+    },
+    {
+      "source": "estimate",
+      "targets": [
+        "stima"
+      ]
+    },
+    {
+      "source": "khan",
+      "targets": [
+        "kahn",
+        "khan"
+      ]
+    },
+    {
+      "source": "pilger",
+      "targets": [
+        "pilger"
+      ]
+    },
+    {
+      "source": "destination",
+      "targets": [
+        "destinazione"
+      ]
+    },
+    {
+      "source": "yilmaz",
+      "targets": [
+        "yilmaz"
+      ]
+    },
+    {
+      "source": "archives",
+      "targets": [
+        "archivi"
+      ]
+    },
+    {
+      "source": "beatrix",
+      "targets": [
+        "beatrice"
+      ]
+    },
+    {
+      "source": "tranquillizers",
+      "targets": [
+        "tranquillanti"
+      ]
+    },
+    {
+      "source": "landes",
+      "targets": [
+        "landes"
+      ]
+    },
+    {
+      "source": "formality",
+      "targets": [
+        "formalità"
+      ]
+    },
+    {
+      "source": "raynal",
+      "targets": [
+        "raynal"
+      ]
+    },
+    {
+      "source": "yolanda",
+      "targets": [
+        "yolanda"
+      ]
+    },
+    {
+      "source": "garza",
+      "targets": [
+        "garza"
+      ]
+    },
+    {
+      "source": "deigned",
+      "targets": [
+        "risalta"
+      ]
+    },
+    {
+      "source": "particular",
+      "targets": [
+        "particolare"
+      ]
+    },
+    {
+      "source": "nitpicking",
+      "targets": [
+        "asfissiante"
+      ]
+    },
+    {
+      "source": "plagiarise",
+      "targets": [
+        "plagio"
+      ]
+    },
+    {
+      "source": "revitalising",
+      "targets": [
+        "rivitalizzazione"
+      ]
+    },
+    {
+      "source": "morgan",
+      "targets": [
+        "morgan"
+      ]
+    },
+    {
+      "source": "prepacked",
+      "targets": [
+        "preconfezionati"
+      ]
+    },
+    {
+      "source": "shark",
+      "targets": [
+        "squalo"
+      ]
+    },
+    {
+      "source": "campsite",
+      "targets": [
+        "campeggio"
+      ]
+    },
+    {
+      "source": "radovan",
+      "targets": [
+        "radovan"
+      ]
+    },
+    {
+      "source": "autumn",
+      "targets": [
+        "autunno"
+      ]
+    },
+    {
+      "source": "minimum",
+      "targets": [
+        "minima",
+        "minime",
+        "minimi",
+        "minimo"
+      ]
+    },
+    {
+      "source": "numbers",
+      "targets": [
+        "numbers",
+        "numeri"
+      ]
+    },
+    {
+      "source": "purchased",
+      "targets": [
+        "acquistati",
+        "acquistato"
+      ]
+    },
+    {
+      "source": "influenced",
+      "targets": [
+        "influenzata",
+        "influenzato"
+      ]
+    },
+    {
+      "source": "kuwaiti",
+      "targets": [
+        "kuwaitiani"
+      ]
+    },
+    {
+      "source": "interconnect",
+      "targets": [
+        "interconnettere"
+      ]
+    },
+    {
+      "source": "mongolians",
+      "targets": [
+        "mongoli"
+      ]
+    },
+    {
+      "source": "ratified",
+      "targets": [
+        "ratificato"
+      ]
+    },
+    {
+      "source": "jailers",
+      "targets": [
+        "aguzzini",
+        "carcerieri"
+      ]
+    },
+    {
+      "source": "influences",
+      "targets": [
+        "influenze"
+      ]
+    },
+    {
+      "source": "rebalance",
+      "targets": [
+        "riequilibrare"
+      ]
+    },
+    {
+      "source": "suspensive",
+      "targets": [
+        "sospensiva",
+        "sospensivo"
+      ]
+    },
+    {
+      "source": "crédit",
+      "targets": [
+        "crédit"
+      ]
+    },
+    {
+      "source": "rapists",
+      "targets": [
+        "stupratori"
+      ]
+    },
+    {
+      "source": "altercations",
+      "targets": [
+        "alterchi"
+      ]
+    },
+    {
+      "source": "sneak",
+      "targets": [
+        "chetichella"
+      ]
+    },
+    {
+      "source": "petits",
+      "targets": [
+        "petits"
+      ]
+    },
+    {
+      "source": "lighting",
+      "targets": [
+        "illuminazione"
+      ]
+    },
+    {
+      "source": "universalisation",
+      "targets": [
+        "universalizzazione"
+      ]
+    },
+    {
+      "source": "faculty",
+      "targets": [
+        "facoltà"
+      ]
+    },
+    {
+      "source": "maltese",
+      "targets": [
+        "maltese",
+        "maltesi"
+      ]
+    },
+    {
+      "source": "reclassify",
+      "targets": [
+        "riclassificare"
+      ]
+    },
+    {
+      "source": "viareggio",
+      "targets": [
+        "viareggio"
+      ]
+    },
+    {
+      "source": "refuse",
+      "targets": [
+        "rifiutare"
+      ]
+    },
+    {
+      "source": "bloating",
+      "targets": [
+        "appesantimenti"
+      ]
+    },
+    {
+      "source": "crowded",
+      "targets": [
+        "affollata",
+        "affollato"
+      ]
+    },
+    {
+      "source": "izetbegovic",
+      "targets": [
+        "izetbegovic"
+      ]
+    },
+    {
+      "source": "jihadist",
+      "targets": [
+        "jihad",
+        "jihadista",
+        "jihadisti"
+      ]
+    },
+    {
+      "source": "register",
+      "targets": [
+        "registro"
+      ]
+    },
+    {
+      "source": "stasi",
+      "targets": [
+        "stasi"
+      ]
+    },
+    {
+      "source": "foretell",
+      "targets": [
+        "pronosticare"
+      ]
+    },
+    {
+      "source": "dream",
+      "targets": [
+        "sogno"
+      ]
+    },
+    {
+      "source": "grasshoppers",
+      "targets": [
+        "cicale"
+      ]
+    },
+    {
+      "source": "displease",
+      "targets": [
+        "scontentare"
+      ]
+    },
+    {
+      "source": "developed",
+      "targets": [
+        "sviluppati",
+        "sviluppato"
+      ]
+    },
+    {
+      "source": "scientism",
+      "targets": [
+        "scientismo"
+      ]
+    },
+    {
+      "source": "garang",
+      "targets": [
+        "garang"
+      ]
+    },
+    {
+      "source": "disabled",
+      "targets": [
+        "disabili"
+      ]
+    },
+    {
+      "source": "vercelli",
+      "targets": [
+        "vercelli"
+      ]
+    },
+    {
+      "source": "lasers",
+      "targets": [
+        "laser"
+      ]
+    },
+    {
+      "source": "brie",
+      "targets": [
+        "brie"
+      ]
+    },
+    {
+      "source": "discloses",
+      "targets": [
+        "divulga"
+      ]
+    },
+    {
+      "source": "censured",
+      "targets": [
+        "censurata"
+      ]
+    },
+    {
+      "source": "botched",
+      "targets": [
+        "raffazzonata"
+      ]
+    },
+    {
+      "source": "actually",
+      "targets": [
+        "effettivamente"
+      ]
+    },
+    {
+      "source": "clashes",
+      "targets": [
+        "scontri"
+      ]
+    },
+    {
+      "source": "redraft",
+      "targets": [
+        "ricostituito"
+      ]
+    },
+    {
+      "source": "argentina",
+      "targets": [
+        "argentina"
+      ]
+    },
+    {
+      "source": "afforestation",
+      "targets": [
+        "imboschimento",
+        "rimboschimento"
+      ]
+    },
+    {
+      "source": "gadget",
+      "targets": [
+        "gadget"
+      ]
+    },
+    {
+      "source": "immobility",
+      "targets": [
+        "immobilità"
+      ]
+    },
+    {
+      "source": "walls",
+      "targets": [
+        "muri",
+        "walls"
+      ]
+    },
+    {
+      "source": "subtitles",
+      "targets": [
+        "sottotitoli"
+      ]
+    },
+    {
+      "source": "document",
+      "targets": [
+        "documento"
+      ]
+    },
+    {
+      "source": "sailor",
+      "targets": [
+        "marinaio"
+      ]
+    },
+    {
+      "source": "bless",
+      "targets": [
+        "benedica"
+      ]
+    },
+    {
+      "source": "micro",
+      "targets": [
+        "micro"
+      ]
+    },
+    {
+      "source": "investigators",
+      "targets": [
+        "inquirenti",
+        "investigatori"
+      ]
+    },
+    {
+      "source": "generation",
+      "targets": [
+        "generazione"
+      ]
+    },
+    {
+      "source": "flower",
+      "targets": [
+        "fiore",
+        "flower"
+      ]
+    },
+    {
+      "source": "funding",
+      "targets": [
+        "finanziamenti",
+        "finanziamento"
+      ]
+    },
+    {
+      "source": "billingham",
+      "targets": [
+        "billingham"
+      ]
+    },
+    {
+      "source": "cyclone",
+      "targets": [
+        "ciclone"
+      ]
+    },
+    {
+      "source": "learners",
+      "targets": [
+        "discenti",
+        "principianti"
+      ]
+    },
+    {
+      "source": "sympathized",
+      "targets": [
+        "subiva"
+      ]
+    },
+    {
+      "source": "expansive",
+      "targets": [
+        "espansiva"
+      ]
+    },
+    {
+      "source": "scourged",
+      "targets": [
+        "flagellata"
+      ]
+    },
+    {
+      "source": "bungled",
+      "targets": [
+        "mortifica"
+      ]
+    },
+    {
+      "source": "pitfalls",
+      "targets": [
+        "insidie",
+        "trappole"
+      ]
+    },
+    {
+      "source": "kostunica",
+      "targets": [
+        "kostunica"
+      ]
+    },
+    {
+      "source": "aziz",
+      "targets": [
+        "aziz"
+      ]
+    },
+    {
+      "source": "katyn",
+      "targets": [
+        "katyn"
+      ]
+    },
+    {
+      "source": "users",
+      "targets": [
+        "utenti"
+      ]
+    },
+    {
+      "source": "recast",
+      "targets": [
+        "rifusione"
+      ]
+    },
+    {
+      "source": "persists",
+      "targets": [
+        "persiste"
+      ]
+    },
+    {
+      "source": "brazenly",
+      "targets": [
+        "impudentemente"
+      ]
+    },
+    {
+      "source": "thüringen",
+      "targets": [
+        "turingia"
+      ]
+    },
+    {
+      "source": "tamayo",
+      "targets": [
+        "tamayo"
+      ]
+    },
+    {
+      "source": "rainforest",
+      "targets": [
+        "pluviale"
+      ]
+    },
+    {
+      "source": "unmanned",
+      "targets": [
+        "teleguidati"
+      ]
+    },
+    {
+      "source": "polarise",
+      "targets": [
+        "polarizzare"
+      ]
+    },
+    {
+      "source": "dine",
+      "targets": [
+        "cenare"
+      ]
+    },
+    {
+      "source": "vukovar",
+      "targets": [
+        "vukovar"
+      ]
+    },
+    {
+      "source": "dona",
+      "targets": [
+        "dona"
+      ]
+    },
+    {
+      "source": "enlarged",
+      "targets": [
+        "allargata",
+        "ampliata"
+      ]
+    },
+    {
+      "source": "estrela",
+      "targets": [
+        "estrela"
+      ]
+    },
+    {
+      "source": "atocha",
+      "targets": [
+        "atocha"
+      ]
+    },
+    {
+      "source": "abrogated",
+      "targets": [
+        "abrogati"
+      ]
+    },
+    {
+      "source": "heads",
+      "targets": [
+        "capi",
+        "testa"
+      ]
+    },
+    {
+      "source": "indulgent",
+      "targets": [
+        "indulgente",
+        "indulgenti"
+      ]
+    },
+    {
+      "source": "introduction",
+      "targets": [
+        "introduzione"
+      ]
+    },
+    {
+      "source": "identity",
+      "targets": [
+        "identità"
+      ]
+    },
+    {
+      "source": "statement",
+      "targets": [
+        "dichiarazione"
+      ]
+    },
+    {
+      "source": "bowed",
+      "targets": [
+        "inchinati",
+        "piegato"
+      ]
+    },
+    {
+      "source": "muscles",
+      "targets": [
+        "muscoli"
+      ]
+    },
+    {
+      "source": "needle",
+      "targets": [
+        "ago",
+        "needle"
+      ]
+    },
+    {
+      "source": "blaise",
+      "targets": [
+        "blaise"
+      ]
+    },
+    {
+      "source": "macra",
+      "targets": [
+        "macra"
+      ]
+    },
+    {
+      "source": "dikes",
+      "targets": [
+        "dighe"
+      ]
+    },
+    {
+      "source": "derailing",
+      "targets": [
+        "deragliamento"
+      ]
+    },
+    {
+      "source": "abysmally",
+      "targets": [
+        "malo"
+      ]
+    },
+    {
+      "source": "depletes",
+      "targets": [
+        "depaupera"
+      ]
+    },
+    {
+      "source": "phobia",
+      "targets": [
+        "fobia"
+      ]
+    },
+    {
+      "source": "jamil",
+      "targets": [
+        "jamil"
+      ]
+    },
+    {
+      "source": "kouchner",
+      "targets": [
+        "kouchner"
+      ]
+    },
+    {
+      "source": "majority",
+      "targets": [
+        "maggioranza"
+      ]
+    },
+    {
+      "source": "labour",
+      "targets": [
+        "laburista",
+        "laburisti"
+      ]
+    },
+    {
+      "source": "build",
+      "targets": [
+        "costruire"
+      ]
+    },
+    {
+      "source": "added",
+      "targets": [
+        "aggiunto"
+      ]
+    },
+    {
+      "source": "véronique",
+      "targets": [
+        "véronique"
+      ]
+    },
+    {
+      "source": "multilingual",
+      "targets": [
+        "multilingue",
+        "plurilingue"
+      ]
+    },
+    {
+      "source": "daphne",
+      "targets": [
+        "daphne"
+      ]
+    },
+    {
+      "source": "oyster",
+      "targets": [
+        "mollusco",
+        "ostrica",
+        "ostriche"
+      ]
+    },
+    {
+      "source": "argentinians",
+      "targets": [
+        "argentini"
+      ]
+    },
+    {
+      "source": "gastropods",
+      "targets": [
+        "gasteropodi"
+      ]
+    },
+    {
+      "source": "popularity",
+      "targets": [
+        "popolarità"
+      ]
+    },
+    {
+      "source": "consanguinity",
+      "targets": [
+        "consanguineità"
+      ]
+    },
+    {
+      "source": "unreasonable",
+      "targets": [
+        "irragionevole",
+        "irragionevoli"
+      ]
+    },
+    {
+      "source": "pomegranates",
+      "targets": [
+        "melograni"
+      ]
+    },
+    {
+      "source": "gold",
+      "targets": [
+        "gold",
+        "oro"
+      ]
+    },
+    {
+      "source": "fins",
+      "targets": [
+        "pinne"
+      ]
+    },
+    {
+      "source": "tarragona",
+      "targets": [
+        "tarragona"
+      ]
+    },
+    {
+      "source": "multilateral",
+      "targets": [
+        "multilaterale",
+        "multilaterali"
+      ]
+    },
+    {
+      "source": "dutchmen",
+      "targets": [
+        "olandesi"
+      ]
+    },
+    {
+      "source": "abducts",
+      "targets": [
+        "rapisce"
+      ]
+    },
+    {
+      "source": "spineless",
+      "targets": [
+        "inetto"
+      ]
+    },
+    {
+      "source": "nervous",
+      "targets": [
+        "nervoso"
+      ]
+    },
+    {
+      "source": "writer",
+      "targets": [
+        "scrittore"
+      ]
+    },
+    {
+      "source": "canaria",
+      "targets": [
+        "canaria"
+      ]
+    },
+    {
+      "source": "randy",
+      "targets": [
+        "randy"
+      ]
+    },
+    {
+      "source": "defiled",
+      "targets": [
+        "svilito"
+      ]
+    },
+    {
+      "source": "kabila",
+      "targets": [
+        "kabila"
+      ]
+    },
+    {
+      "source": "ingushetia",
+      "targets": [
+        "inguscezia"
+      ]
+    },
+    {
+      "source": "trees",
+      "targets": [
+        "alberi"
+      ]
+    },
+    {
+      "source": "hic",
+      "targets": [
+        "hic"
+      ]
+    },
+    {
+      "source": "mieux",
+      "targets": [
+        "mieux"
+      ]
+    },
+    {
+      "source": "deductive",
+      "targets": [
+        "aprioristici",
+        "deduttivo"
+      ]
+    },
+    {
+      "source": "computerization",
+      "targets": [
+        "computerizzazione",
+        "informatizzazione"
+      ]
+    },
+    {
+      "source": "statism",
+      "targets": [
+        "statalismo"
+      ]
+    },
+    {
+      "source": "poisoner",
+      "targets": [
+        "avvelenatore"
+      ]
+    },
+    {
+      "source": "angulo",
+      "targets": [
+        "angulo"
+      ]
+    },
+    {
+      "source": "banking",
+      "targets": [
+        "bancari",
+        "bancaria",
+        "bancario"
+      ]
+    },
+    {
+      "source": "gloves",
+      "targets": [
+        "guanti"
+      ]
+    },
+    {
+      "source": "dossiers",
+      "targets": [
+        "fascicoli"
+      ]
+    },
+    {
+      "source": "activity",
+      "targets": [
+        "attività"
+      ]
+    },
+    {
+      "source": "switzerland",
+      "targets": [
+        "svizzera"
+      ]
+    },
+    {
+      "source": "migration",
+      "targets": [
+        "immigrazione",
+        "migrazione"
+      ]
+    },
+    {
+      "source": "bouteflika",
+      "targets": [
+        "bouteflika"
+      ]
+    },
+    {
+      "source": "close",
+      "targets": [
+        "stretta"
+      ]
+    },
+    {
+      "source": "lynched",
+      "targets": [
+        "linciati",
+        "linciato"
+      ]
+    },
+    {
+      "source": "insidiously",
+      "targets": [
+        "insidiosamente",
+        "subdolamente"
+      ]
+    },
+    {
+      "source": "colonialists",
+      "targets": [
+        "colonialisti"
+      ]
+    },
+    {
+      "source": "muted",
+      "targets": [
+        "tenue",
+        "tenui"
+      ]
+    },
+    {
+      "source": "saakashvili",
+      "targets": [
+        "saakashvili"
+      ]
+    },
+    {
+      "source": "internationalise",
+      "targets": [
+        "internazionalizzare"
+      ]
+    },
+    {
+      "source": "vascular",
+      "targets": [
+        "vascolari"
+      ]
+    },
+    {
+      "source": "tamino",
+      "targets": [
+        "tamino"
+      ]
+    },
+    {
+      "source": "bisexuals",
+      "targets": [
+        "bisessuali"
+      ]
+    },
+    {
+      "source": "responses",
+      "targets": [
+        "risposte"
+      ]
+    },
+    {
+      "source": "silicone",
+      "targets": [
+        "silicone"
+      ]
+    },
+    {
+      "source": "appetites",
+      "targets": [
+        "appetiti"
+      ]
+    },
+    {
+      "source": "latif",
+      "targets": [
+        "latif"
+      ]
+    },
+    {
+      "source": "incubators",
+      "targets": [
+        "incubatori",
+        "incubatrici"
+      ]
+    },
+    {
+      "source": "unodc",
+      "targets": [
+        "unodc"
+      ]
+    },
+    {
+      "source": "competent",
+      "targets": [
+        "competente",
+        "competenti"
+      ]
+    },
+    {
+      "source": "anchorages",
+      "targets": [
+        "ancoraggi"
+      ]
+    },
+    {
+      "source": "cryptic",
+      "targets": [
+        "criptica",
+        "criptico"
+      ]
+    },
+    {
+      "source": "downloaded",
+      "targets": [
+        "scaricato"
+      ]
+    },
+    {
+      "source": "underclass",
+      "targets": [
+        "sottoclasse"
+      ]
+    },
+    {
+      "source": "experimental",
+      "targets": [
+        "sperimentale",
+        "sperimentali"
+      ]
+    },
+    {
+      "source": "bell",
+      "targets": [
+        "campanella",
+        "campanello"
+      ]
+    },
+    {
+      "source": "reasons",
+      "targets": [
+        "motivi",
+        "ragioni"
+      ]
+    },
+    {
+      "source": "sweep",
+      "targets": [
+        "sweep"
+      ]
+    },
+    {
+      "source": "community",
+      "targets": [
+        "comunitaria",
+        "comunitarie",
+        "comunitario",
+        "comunità"
+      ]
+    },
+    {
+      "source": "togolese",
+      "targets": [
+        "togolese",
+        "togolesi"
+      ]
+    },
+    {
+      "source": "ravaged",
+      "targets": [
+        "devastato"
+      ]
+    },
+    {
+      "source": "originators",
+      "targets": [
+        "ideatori"
+      ]
+    },
+    {
+      "source": "acceptance",
+      "targets": [
+        "accettazione"
+      ]
+    },
+    {
+      "source": "political",
+      "targets": [
+        "politica",
+        "politiche",
+        "politici",
+        "politico"
+      ]
+    },
+    {
+      "source": "canarian",
+      "targets": [
+        "canario"
+      ]
+    },
+    {
+      "source": "secret",
+      "targets": [
+        "segreti",
+        "segreto"
+      ]
+    },
+    {
+      "source": "territory",
+      "targets": [
+        "territorio"
+      ]
+    },
+    {
+      "source": "mercantilism",
+      "targets": [
+        "mercantilismo"
+      ]
+    },
+    {
+      "source": "firm",
+      "targets": [
+        "ferma"
+      ]
+    },
+    {
+      "source": "institutionalized",
+      "targets": [
+        "istituzionalizzato"
+      ]
+    },
+    {
+      "source": "cpmp",
+      "targets": [
+        "cpmp"
+      ]
+    },
+    {
+      "source": "awake",
+      "targets": [
+        "svegli",
+        "sveglio"
+      ]
+    },
+    {
+      "source": "deport",
+      "targets": [
+        "deportare"
+      ]
+    },
+    {
+      "source": "frits",
+      "targets": [
+        "frits"
+      ]
+    },
+    {
+      "source": "classifications",
+      "targets": [
+        "classificazioni"
+      ]
+    },
+    {
+      "source": "exponential",
+      "targets": [
+        "esponenziale"
+      ]
+    },
+    {
+      "source": "avalanches",
+      "targets": [
+        "valanghe"
+      ]
+    },
+    {
+      "source": "reliable",
+      "targets": [
+        "affidabile",
+        "affidabili"
+      ]
+    },
+    {
+      "source": "budget",
+      "targets": [
+        "bilancio"
+      ]
+    },
+    {
+      "source": "forgetting",
+      "targets": [
+        "dimenticando"
+      ]
+    },
+    {
+      "source": "coyly",
+      "targets": [
+        "pudicamente"
+      ]
+    },
+    {
+      "source": "seizes",
+      "targets": [
+        "aggrappa"
+      ]
+    },
+    {
+      "source": "costly",
+      "targets": [
+        "costosa",
+        "costose",
+        "costosi",
+        "costoso"
+      ]
+    },
+    {
+      "source": "jpa",
+      "targets": [
+        "app"
+      ]
+    },
+    {
+      "source": "landfilled",
+      "targets": [
+        "interrate",
+        "interrato"
+      ]
+    },
+    {
+      "source": "awakening",
+      "targets": [
+        "risveglio"
+      ]
+    },
+    {
+      "source": "méndez",
+      "targets": [
+        "méndez"
+      ]
+    },
+    {
+      "source": "ready",
+      "targets": [
+        "pronta",
+        "pronti",
+        "pronto"
+      ]
+    },
+    {
+      "source": "oligopolistic",
+      "targets": [
+        "oligopolistica"
+      ]
+    },
+    {
+      "source": "pacemakers",
+      "targets": [
+        "pacemaker"
+      ]
+    },
+    {
+      "source": "butcher",
+      "targets": [
+        "macellaio"
+      ]
+    },
+    {
+      "source": "widely",
+      "targets": [
+        "ampiamente"
+      ]
+    },
+    {
+      "source": "grand",
+      "targets": [
+        "grand",
+        "grande"
+      ]
+    },
+    {
+      "source": "yalta",
+      "targets": [
+        "yalta"
+      ]
+    },
+    {
+      "source": "currencies",
+      "targets": [
+        "monete",
+        "valute"
+      ]
+    },
+    {
+      "source": "censure",
+      "targets": [
+        "censura"
+      ]
+    },
+    {
+      "source": "contractors",
+      "targets": [
+        "appaltatori"
+      ]
+    },
+    {
+      "source": "stateless",
+      "targets": [
+        "apolidi"
+      ]
+    },
+    {
+      "source": "meddlesome",
+      "targets": [
+        "vessatoria"
+      ]
+    },
+    {
+      "source": "dared",
+      "targets": [
+        "osato"
+      ]
+    },
+    {
+      "source": "edge",
+      "targets": [
+        "orlo"
+      ]
+    },
+    {
+      "source": "plebiscites",
+      "targets": [
+        "plebisciti"
+      ]
+    },
+    {
+      "source": "secession",
+      "targets": [
+        "secessione"
+      ]
+    },
+    {
+      "source": "scaremongering",
+      "targets": [
+        "allarmismo"
+      ]
+    },
+    {
+      "source": "recoverable",
+      "targets": [
+        "recuperabile",
+        "recuperabili"
+      ]
+    },
+    {
+      "source": "egoistic",
+      "targets": [
+        "egoisticamente",
+        "egoistiche"
+      ]
+    },
+    {
+      "source": "migratory",
+      "targets": [
+        "migratori",
+        "migratorie"
+      ]
+    },
+    {
+      "source": "sima",
+      "targets": [
+        "sima"
+      ]
+    },
+    {
+      "source": "scowcroft",
+      "targets": [
+        "scowcroft"
+      ]
+    },
+    {
+      "source": "interprofessional",
+      "targets": [
+        "interprofessionale",
+        "interprofessionali"
+      ]
+    },
+    {
+      "source": "repopulate",
+      "targets": [
+        "ripopolare"
+      ]
+    },
+    {
+      "source": "homeland",
+      "targets": [
+        "patria"
+      ]
+    },
+    {
+      "source": "shoestring",
+      "targets": [
+        "ridottissimo"
+      ]
+    },
+    {
+      "source": "violations",
+      "targets": [
+        "violazioni"
+      ]
+    },
+    {
+      "source": "victims",
+      "targets": [
+        "vittime"
+      ]
+    },
+    {
+      "source": "characterise",
+      "targets": [
+        "caratterizzano",
+        "caratterizzare"
+      ]
+    },
+    {
+      "source": "kfor",
+      "targets": [
+        "kfor"
+      ]
+    },
+    {
+      "source": "game",
+      "targets": [
+        "gioco"
+      ]
+    },
+    {
+      "source": "semolina",
+      "targets": [
+        "semola"
+      ]
+    },
+    {
+      "source": "microcredit",
+      "targets": [
+        "microcredito"
+      ]
+    },
+    {
+      "source": "follows",
+      "targets": [
+        "segue"
+      ]
+    },
+    {
+      "source": "donna",
+      "targets": [
+        "donna"
+      ]
+    },
+    {
+      "source": "particularism",
+      "targets": [
+        "particolarismo"
+      ]
+    },
+    {
+      "source": "expansionary",
+      "targets": [
+        "espansionistica",
+        "espansivi"
+      ]
+    },
+    {
+      "source": "conurbations",
+      "targets": [
+        "conurbazioni"
+      ]
+    },
+    {
+      "source": "delegation",
+      "targets": [
+        "delegazione"
+      ]
+    },
+    {
+      "source": "hectolitres",
+      "targets": [
+        "ettolitri"
+      ]
+    },
+    {
+      "source": "examples",
+      "targets": [
+        "esempi"
+      ]
+    },
+    {
+      "source": "impoverish",
+      "targets": [
+        "impoverire"
+      ]
+    },
+    {
+      "source": "meda",
+      "targets": [
+        "meda"
+      ]
+    },
+    {
+      "source": "sorbonne",
+      "targets": [
+        "sorbona"
+      ]
+    },
+    {
+      "source": "jacek",
+      "targets": [
+        "jacek"
+      ]
+    },
+    {
+      "source": "anne",
+      "targets": [
+        "anne"
+      ]
+    },
+    {
+      "source": "saab",
+      "targets": [
+        "saab"
+      ]
+    },
+    {
+      "source": "genoese",
+      "targets": [
+        "genovese"
+      ]
+    },
+    {
+      "source": "liszt",
+      "targets": [
+        "liszt"
+      ]
+    },
+    {
+      "source": "patient",
+      "targets": [
+        "paziente"
+      ]
+    },
+    {
+      "source": "jaurès",
+      "targets": [
+        "jaurès"
+      ]
+    },
+    {
+      "source": "processing",
+      "targets": [
+        "trasformazione"
+      ]
+    },
+    {
+      "source": "ruf",
+      "targets": [
+        "ruf"
+      ]
+    },
+    {
+      "source": "ruy",
+      "targets": [
+        "ruy"
+      ]
+    },
+    {
+      "source": "stew",
+      "targets": [
+        "stufato"
+      ]
+    },
+    {
+      "source": "santa",
+      "targets": [
+        "santa"
+      ]
+    },
+    {
+      "source": "taboo",
+      "targets": [
+        "tabù"
+      ]
+    },
+    {
+      "source": "dilution",
+      "targets": [
+        "diluizione"
+      ]
+    },
+    {
+      "source": "moored",
+      "targets": [
+        "ormeggiata",
+        "ormeggiate"
+      ]
+    },
+    {
+      "source": "gambia",
+      "targets": [
+        "gambia"
+      ]
+    },
+    {
+      "source": "conciliatory",
+      "targets": [
+        "conciliante"
+      ]
+    },
+    {
+      "source": "blackmailed",
+      "targets": [
+        "ricattare",
+        "ricattato"
+      ]
+    },
+    {
+      "source": "benefactors",
+      "targets": [
+        "benefattori"
+      ]
+    },
+    {
+      "source": "pollution",
+      "targets": [
+        "inquinamento"
+      ]
+    },
+    {
+      "source": "encumbrance",
+      "targets": [
+        "ingombro"
+      ]
+    },
+    {
+      "source": "colorado",
+      "targets": [
+        "colorado"
+      ]
+    },
+    {
+      "source": "incoherence",
+      "targets": [
+        "incoerenza"
+      ]
+    },
+    {
+      "source": "stitched",
+      "targets": [
+        "cucito"
+      ]
+    },
+    {
+      "source": "deutschmark",
+      "targets": [
+        "marco"
+      ]
+    },
+    {
+      "source": "madagascar",
+      "targets": [
+        "madagascar"
+      ]
+    },
+    {
+      "source": "discourtesy",
+      "targets": [
+        "scortesia"
+      ]
+    },
+    {
+      "source": "textual",
+      "targets": [
+        "testuale",
+        "testuali"
+      ]
+    },
+    {
+      "source": "pharmaceuticals",
+      "targets": [
+        "farmaceutico"
+      ]
+    },
+    {
+      "source": "infected",
+      "targets": [
+        "infetti"
+      ]
+    },
+    {
+      "source": "erasmus",
+      "targets": [
+        "erasmus"
+      ]
+    },
+    {
+      "source": "sdr",
+      "targets": [
+        "dsp"
+      ]
+    },
+    {
+      "source": "vowing",
+      "targets": [
+        "giurano"
+      ]
+    },
+    {
+      "source": "mechanistic",
+      "targets": [
+        "meccanicistiche",
+        "meccanicistico"
+      ]
+    },
+    {
+      "source": "groupings",
+      "targets": [
+        "raggruppamenti"
+      ]
+    },
+    {
+      "source": "fda",
+      "targets": [
+        "fda"
+      ]
+    },
+    {
+      "source": "particulates",
+      "targets": [
+        "particolato"
+      ]
+    },
+    {
+      "source": "commercialism",
+      "targets": [
+        "affarismo",
+        "mercantilismo"
+      ]
+    },
+    {
+      "source": "characteristic",
+      "targets": [
+        "caratteristica"
+      ]
+    },
+    {
+      "source": "interventionism",
+      "targets": [
+        "interventismo"
+      ]
+    },
+    {
+      "source": "cip",
+      "targets": [
+        "cip"
+      ]
+    },
+    {
+      "source": "desalination",
+      "targets": [
+        "desalinizzazione",
+        "dissalazione"
+      ]
+    },
+    {
+      "source": "jaspers",
+      "targets": [
+        "jaspers"
+      ]
+    },
+    {
+      "source": "demilitarisation",
+      "targets": [
+        "demilitarizzazione",
+        "smilitarizzazione"
+      ]
+    },
+    {
+      "source": "fabricating",
+      "targets": [
+        "fabbricando"
+      ]
+    },
+    {
+      "source": "graham",
+      "targets": [
+        "graham"
+      ]
+    },
+    {
+      "source": "sommes",
+      "targets": [
+        "sommes"
+      ]
+    },
+    {
+      "source": "manoeuvrability",
+      "targets": [
+        "manovrabilità"
+      ]
+    },
+    {
+      "source": "rekindling",
+      "targets": [
+        "riaccende",
+        "riaccendersi",
+        "risuscitare"
+      ]
+    },
+    {
+      "source": "gametes",
+      "targets": [
+        "gameti"
+      ]
+    },
+    {
+      "source": "grt",
+      "targets": [
+        "tsl"
+      ]
+    },
+    {
+      "source": "lemon",
+      "targets": [
+        "limone"
+      ]
+    },
+    {
+      "source": "prizren",
+      "targets": [
+        "prizren"
+      ]
+    },
+    {
+      "source": "actors",
+      "targets": [
+        "attori"
+      ]
+    },
+    {
+      "source": "ferment",
+      "targets": [
+        "fermenti",
+        "fermento"
+      ]
+    },
+    {
+      "source": "irreplaceable",
+      "targets": [
+        "insostituibile",
+        "insostituibili"
+      ]
+    },
+    {
+      "source": "arithmetic",
+      "targets": [
+        "aritmetica"
+      ]
+    },
+    {
+      "source": "polonium",
+      "targets": [
+        "polonio"
+      ]
+    },
+    {
+      "source": "accidental",
+      "targets": [
+        "accidentale",
+        "accidentali"
+      ]
+    },
+    {
+      "source": "prepared",
+      "targets": [
+        "disposti"
+      ]
+    },
+    {
+      "source": "progressivism",
+      "targets": [
+        "progressismo"
+      ]
+    },
+    {
+      "source": "destinies",
+      "targets": [
+        "destini"
+      ]
+    },
+    {
+      "source": "indissoluble",
+      "targets": [
+        "indissolubile",
+        "inscindibilità"
+      ]
+    },
+    {
+      "source": "duopoly",
+      "targets": [
+        "duopolio"
+      ]
+    },
+    {
+      "source": "wards",
+      "targets": [
+        "reparti"
+      ]
+    },
+    {
+      "source": "requires",
+      "targets": [
+        "richiede"
+      ]
+    },
+    {
+      "source": "communautaire",
+      "targets": [
+        "communautaire"
+      ]
+    },
+    {
+      "source": "edd",
+      "targets": [
+        "edd"
+      ]
+    },
+    {
+      "source": "dispel",
+      "targets": [
+        "dissipare",
+        "sfatare"
+      ]
+    },
+    {
+      "source": "shias",
+      "targets": [
+        "sciiti"
+      ]
+    },
+    {
+      "source": "shackled",
+      "targets": [
+        "ammanettati"
+      ]
+    },
+    {
+      "source": "internment",
+      "targets": [
+        "internamento"
+      ]
+    },
+    {
+      "source": "women",
+      "targets": [
+        "donne"
+      ]
+    },
+    {
+      "source": "droppings",
+      "targets": [
+        "escrementi"
+      ]
+    },
+    {
+      "source": "reopened",
+      "targets": [
+        "riaperto"
+      ]
+    },
+    {
+      "source": "agitating",
+      "targets": [
+        "agitando"
+      ]
+    },
+    {
+      "source": "wishes",
+      "targets": [
+        "desideri"
+      ]
+    },
+    {
+      "source": "redefinition",
+      "targets": [
+        "ridefinizione"
+      ]
+    },
+    {
+      "source": "racs",
+      "targets": [
+        "ccr"
+      ]
+    },
+    {
+      "source": "resurface",
+      "targets": [
+        "riaffiorare"
+      ]
+    },
+    {
+      "source": "informers",
+      "targets": [
+        "informatori"
+      ]
+    },
+    {
+      "source": "ryan",
+      "targets": [
+        "ryan"
+      ]
+    },
+    {
+      "source": "depositories",
+      "targets": [
+        "depositari"
+      ]
+    },
+    {
+      "source": "bernie",
+      "targets": [
+        "bernie"
+      ]
+    },
+    {
+      "source": "concluded",
+      "targets": [
+        "conclusi",
+        "concluso"
+      ]
+    },
+    {
+      "source": "riyadh",
+      "targets": [
+        "riad",
+        "riyadh",
+        "ryad"
+      ]
+    },
+    {
+      "source": "ods",
+      "targets": [
+        "ods"
+      ]
+    },
+    {
+      "source": "booth",
+      "targets": [
+        "booth",
+        "cabina"
+      ]
+    },
+    {
+      "source": "sultans",
+      "targets": [
+        "sultani"
+      ]
+    },
+    {
+      "source": "ardent",
+      "targets": [
+        "ardente",
+        "ardenti"
+      ]
+    },
+    {
+      "source": "copenhagen",
+      "targets": [
+        "copenaghen",
+        "copenhagen"
+      ]
+    },
+    {
+      "source": "umpteenth",
+      "targets": [
+        "ennesima",
+        "ennesimo"
+      ]
+    },
+    {
+      "source": "cephalopod",
+      "targets": [
+        "cefalopodi"
+      ]
+    },
+    {
+      "source": "decontaminate",
+      "targets": [
+        "decontaminare",
+        "decontaminazione",
+        "purificare"
+      ]
+    },
+    {
+      "source": "antonello",
+      "targets": [
+        "antonello"
+      ]
+    },
+    {
+      "source": "pipes",
+      "targets": [
+        "tubature"
+      ]
+    },
+    {
+      "source": "habituation",
+      "targets": [
+        "assuefazione"
+      ]
+    },
+    {
+      "source": "playa",
+      "targets": [
+        "playa"
+      ]
+    },
+    {
+      "source": "pristina",
+      "targets": [
+        "pristina"
+      ]
+    },
+    {
+      "source": "bird",
+      "targets": [
+        "aviaria",
+        "uccelli"
+      ]
+    },
+    {
+      "source": "convergences",
+      "targets": [
+        "convergenze"
+      ]
+    },
+    {
+      "source": "bulimia",
+      "targets": [
+        "bulimia"
+      ]
+    },
+    {
+      "source": "kader",
+      "targets": [
+        "kader"
+      ]
+    },
+    {
+      "source": "outlying",
+      "targets": [
+        "periferici"
+      ]
+    },
+    {
+      "source": "ibis",
+      "targets": [
+        "ibis"
+      ]
+    },
+    {
+      "source": "hobart",
+      "targets": [
+        "hobart"
+      ]
+    },
+    {
+      "source": "orkney",
+      "targets": [
+        "orcadi"
+      ]
+    },
+    {
+      "source": "imperfections",
+      "targets": [
+        "imperfezioni"
+      ]
+    },
+    {
+      "source": "tindouf",
+      "targets": [
+        "tindouf"
+      ]
+    },
+    {
+      "source": "genk",
+      "targets": [
+        "genk"
+      ]
+    },
+    {
+      "source": "alois",
+      "targets": [
+        "alois"
+      ]
+    },
+    {
+      "source": "deterrents",
+      "targets": [
+        "deterrenti"
+      ]
+    },
+    {
+      "source": "winkler",
+      "targets": [
+        "winkler"
+      ]
+    },
+    {
+      "source": "pariahs",
+      "targets": [
+        "reietti"
+      ]
+    },
+    {
+      "source": "herzog",
+      "targets": [
+        "herzog"
+      ]
+    },
+    {
+      "source": "reserved",
+      "targets": [
+        "riservata",
+        "riservati",
+        "riservato"
+      ]
+    },
+    {
+      "source": "lime",
+      "targets": [
+        "calce"
+      ]
+    },
+    {
+      "source": "encroachments",
+      "targets": [
+        "sconfinamenti"
+      ]
+    },
+    {
+      "source": "ravalomanana",
+      "targets": [
+        "ravalomanana"
+      ]
+    },
+    {
+      "source": "themselves",
+      "targets": [
+        "stessi"
+      ]
+    },
+    {
+      "source": "pharmacologically",
+      "targets": [
+        "farmacologicamente"
+      ]
+    },
+    {
+      "source": "denigrating",
+      "targets": [
+        "denigrare"
+      ]
+    },
+    {
+      "source": "compatriot",
+      "targets": [
+        "compatriota",
+        "connazionale"
+      ]
+    },
+    {
+      "source": "parliament",
+      "targets": [
+        "parlamento"
+      ]
+    },
+    {
+      "source": "appointed",
+      "targets": [
+        "nominati",
+        "nominato"
+      ]
+    },
+    {
+      "source": "iain",
+      "targets": [
+        "iain"
+      ]
+    },
+    {
+      "source": "blithely",
+      "targets": [
+        "allegramente"
+      ]
+    },
+    {
+      "source": "mythical",
+      "targets": [
+        "fantomatiche",
+        "leggendario",
+        "mitica",
+        "mitico"
+      ]
+    },
+    {
+      "source": "insists",
+      "targets": [
+        "insiste"
+      ]
+    },
+    {
+      "source": "obvious",
+      "targets": [
+        "evidente",
+        "ovvio"
+      ]
+    },
+    {
+      "source": "fassa",
+      "targets": [
+        "fassa"
+      ]
+    },
+    {
+      "source": "drill",
+      "targets": [
+        "esercitazione"
+      ]
+    },
+    {
+      "source": "proof",
+      "targets": [
+        "prova"
+      ]
+    },
+    {
+      "source": "beijing",
+      "targets": [
+        "pechino"
+      ]
+    },
+    {
+      "source": "patrol",
+      "targets": [
+        "pattugliamento",
+        "pattugliare"
+      ]
+    },
+    {
+      "source": "loch",
+      "targets": [
+        "loch"
+      ]
+    },
+    {
+      "source": "bonemeal",
+      "targets": [
+        "ossa"
+      ]
+    },
+    {
+      "source": "lamb",
+      "targets": [
+        "agnello"
+      ]
+    },
+    {
+      "source": "jails",
+      "targets": [
+        "carceri"
+      ]
+    },
+    {
+      "source": "picturesque",
+      "targets": [
+        "pittoresca",
+        "pittoresche",
+        "pittoresco"
+      ]
+    },
+    {
+      "source": "lesley",
+      "targets": [
+        "lesley"
+      ]
+    },
+    {
+      "source": "traders",
+      "targets": [
+        "commercianti"
+      ]
+    },
+    {
+      "source": "responsibilities",
+      "targets": [
+        "responsabilità"
+      ]
+    },
+    {
+      "source": "deplore",
+      "targets": [
+        "deplorare"
+      ]
+    },
+    {
+      "source": "rousseau",
+      "targets": [
+        "rousseau"
+      ]
+    },
+    {
+      "source": "timeframes",
+      "targets": [
+        "tempistiche"
+      ]
+    },
+    {
+      "source": "uncontaminated",
+      "targets": [
+        "incontaminato"
+      ]
+    },
+    {
+      "source": "pasteur",
+      "targets": [
+        "pasteur"
+      ]
+    },
+    {
+      "source": "belongings",
+      "targets": [
+        "averi"
+      ]
+    },
+    {
+      "source": "agglomerations",
+      "targets": [
+        "agglomerati"
+      ]
+    },
+    {
+      "source": "annexes",
+      "targets": [
+        "allegati"
+      ]
+    },
+    {
+      "source": "bini",
+      "targets": [
+        "bini"
+      ]
+    },
+    {
+      "source": "despairs",
+      "targets": [
+        "dispera"
+      ]
+    },
+    {
+      "source": "lines",
+      "targets": [
+        "linee"
+      ]
+    },
+    {
+      "source": "emanuel",
+      "targets": [
+        "emanuel",
+        "emanuele"
+      ]
+    },
+    {
+      "source": "collectivisation",
+      "targets": [
+        "collettivizzazione"
+      ]
+    },
+    {
+      "source": "publique",
+      "targets": [
+        "publique"
+      ]
+    },
+    {
+      "source": "demobilized",
+      "targets": [
+        "smobilitati"
+      ]
+    },
+    {
+      "source": "austrian",
+      "targets": [
+        "austriaca",
+        "austriaco"
+      ]
+    },
+    {
+      "source": "interoperable",
+      "targets": [
+        "interoperabili"
+      ]
+    },
+    {
+      "source": "perfect",
+      "targets": [
+        "perfetta",
+        "perfetto"
+      ]
+    },
+    {
+      "source": "outer",
+      "targets": [
+        "esteriore",
+        "esterne"
+      ]
+    },
+    {
+      "source": "chosen",
+      "targets": [
+        "scelto"
+      ]
+    },
+    {
+      "source": "choose",
+      "targets": [
+        "scegliere"
+      ]
+    },
+    {
+      "source": "reilly",
+      "targets": [
+        "reilly"
+      ]
+    },
+    {
+      "source": "laggards",
+      "targets": [
+        "ritardatari"
+      ]
+    },
+    {
+      "source": "criminal",
+      "targets": [
+        "criminale",
+        "criminali",
+        "penale",
+        "penali"
+      ]
+    },
+    {
+      "source": "machinations",
+      "targets": [
+        "macchinazioni"
+      ]
+    },
+    {
+      "source": "weber",
+      "targets": [
+        "weber"
+      ]
+    },
+    {
+      "source": "pangs",
+      "targets": [
+        "convulsioni",
+        "soprassalto"
+      ]
+    },
+    {
+      "source": "coolants",
+      "targets": [
+        "refrigeranti"
+      ]
+    },
+    {
+      "source": "hands",
+      "targets": [
+        "mani",
+        "mano"
+      ]
+    },
+    {
+      "source": "perpignan",
+      "targets": [
+        "perpignan"
+      ]
+    },
+    {
+      "source": "gbagbo",
+      "targets": [
+        "gbagbo"
+      ]
+    },
+    {
+      "source": "articles",
+      "targets": [
+        "articoli"
+      ]
+    },
+    {
+      "source": "wrangles",
+      "targets": [
+        "alterchi",
+        "condominio"
+      ]
+    },
+    {
+      "source": "decommission",
+      "targets": [
+        "disattivare"
+      ]
+    },
+    {
+      "source": "crudely",
+      "targets": [
+        "crudamente"
+      ]
+    },
+    {
+      "source": "moralising",
+      "targets": [
+        "moralismi"
+      ]
+    },
+    {
+      "source": "truth",
+      "targets": [
+        "verità"
+      ]
+    },
+    {
+      "source": "rennes",
+      "targets": [
+        "rennes"
+      ]
+    },
+    {
+      "source": "accusers",
+      "targets": [
+        "accusatori"
+      ]
+    },
+    {
+      "source": "redeployed",
+      "targets": [
+        "riassegnati",
+        "ridistribuiti"
+      ]
+    },
+    {
+      "source": "ecevit",
+      "targets": [
+        "ecevit"
+      ]
+    },
+    {
+      "source": "burton",
+      "targets": [
+        "burton"
+      ]
+    },
+    {
+      "source": "externalised",
+      "targets": [
+        "esternalizzati"
+      ]
+    },
+    {
+      "source": "dassault",
+      "targets": [
+        "dassault"
+      ]
+    },
+    {
+      "source": "creditworthy",
+      "targets": [
+        "solvibili"
+      ]
+    },
+    {
+      "source": "reformulate",
+      "targets": [
+        "riformulare"
+      ]
+    },
+    {
+      "source": "plural",
+      "targets": [
+        "plurale"
+      ]
+    },
+    {
+      "source": "red",
+      "targets": [
+        "rossa",
+        "rosso"
+      ]
+    },
+    {
+      "source": "hedged",
+      "targets": [
+        "emanerà"
+      ]
+    },
+    {
+      "source": "maintains",
+      "targets": [
+        "mantiene"
+      ]
+    },
+    {
+      "source": "completely",
+      "targets": [
+        "completamente"
+      ]
+    },
+    {
+      "source": "machismo",
+      "targets": [
+        "maschilismo"
+      ]
+    },
+    {
+      "source": "princess",
+      "targets": [
+        "principessa"
+      ]
+    },
+    {
+      "source": "assiduously",
+      "targets": [
+        "assiduamente"
+      ]
+    },
+    {
+      "source": "indent",
+      "targets": [
+        "capoverso",
+        "trattino"
+      ]
+    },
+    {
+      "source": "segregated",
+      "targets": [
+        "segregati"
+      ]
+    },
+    {
+      "source": "scars",
+      "targets": [
+        "cicatrici"
+      ]
+    },
+    {
+      "source": "subparagraphs",
+      "targets": [
+        "commi",
+        "sottoparagrafo"
+      ]
+    },
+    {
+      "source": "keep",
+      "targets": [
+        "mantenere"
+      ]
+    },
+    {
+      "source": "shred",
+      "targets": [
+        "briciolo",
+        "straccio"
+      ]
+    },
+    {
+      "source": "relays",
+      "targets": [
+        "antenne"
+      ]
+    },
+    {
+      "source": "caricatures",
+      "targets": [
+        "caricature",
+        "vignette"
+      ]
+    },
+    {
+      "source": "mcmillan",
+      "targets": [
+        "mcmillan"
+      ]
+    },
+    {
+      "source": "pcbs",
+      "targets": [
+        "pcb"
+      ]
+    },
+    {
+      "source": "extraterritorial",
+      "targets": [
+        "extraterritoriale",
+        "extraterritoriali"
+      ]
+    },
+    {
+      "source": "date",
+      "targets": [
+        "data"
+      ]
+    },
+    {
+      "source": "improvements",
+      "targets": [
+        "miglioramenti"
+      ]
+    },
+    {
+      "source": "legislative",
+      "targets": [
+        "legislativa",
+        "legislative",
+        "legislativo"
+      ]
+    },
+    {
+      "source": "data",
+      "targets": [
+        "dati"
+      ]
+    },
+    {
+      "source": "adjoins",
+      "targets": [
+        "attigua"
+      ]
+    },
+    {
+      "source": "adopted",
+      "targets": [
+        "adottata",
+        "adottato"
+      ]
+    },
+    {
+      "source": "funnelling",
+      "targets": [
+        "devolve"
+      ]
+    },
+    {
+      "source": "anaemia",
+      "targets": [
+        "anemia"
+      ]
+    },
+    {
+      "source": "academy",
+      "targets": [
+        "accademia"
+      ]
+    },
+    {
+      "source": "brazilian",
+      "targets": [
+        "brasiliana",
+        "brasiliane",
+        "brasiliani",
+        "brasiliano"
+      ]
+    },
+    {
+      "source": "tacitly",
+      "targets": [
+        "tacitamente"
+      ]
+    },
+    {
+      "source": "rsp",
+      "targets": [
+        "rsp"
+      ]
+    },
+    {
+      "source": "photograph",
+      "targets": [
+        "foto",
+        "fotografia"
+      ]
+    },
+    {
+      "source": "bessarabia",
+      "targets": [
+        "bessarabia"
+      ]
+    },
+    {
+      "source": "bee",
+      "targets": [
+        "api",
+        "bee"
+      ]
+    },
+    {
+      "source": "fastidiously",
+      "targets": [
+        "penosamente"
+      ]
+    },
+    {
+      "source": "spurt",
+      "targets": [
+        "sprint"
+      ]
+    },
+    {
+      "source": "supplanting",
+      "targets": [
+        "soppiantando"
+      ]
+    },
+    {
+      "source": "hatreds",
+      "targets": [
+        "odi"
+      ]
+    },
+    {
+      "source": "bisexual",
+      "targets": [
+        "bisessuali"
+      ]
+    },
+    {
+      "source": "unchanged",
+      "targets": [
+        "immutata",
+        "invariato"
+      ]
+    },
+    {
+      "source": "deterred",
+      "targets": [
+        "dissuaso"
+      ]
+    },
+    {
+      "source": "hager",
+      "targets": [
+        "hager"
+      ]
+    },
+    {
+      "source": "unlikely",
+      "targets": [
+        "improbabile"
+      ]
+    },
+    {
+      "source": "have",
+      "targets": [
+        "auguri",
+        "hanno",
+        "sono"
+      ]
+    },
+    {
+      "source": "capitulating",
+      "targets": [
+        "arrende",
+        "capitola"
+      ]
+    },
+    {
+      "source": "clearly",
+      "targets": [
+        "chiaramente"
+      ]
+    },
+    {
+      "source": "catholic",
+      "targets": [
+        "cattolica",
+        "cattolici",
+        "cattolico"
+      ]
+    },
+    {
+      "source": "mif",
+      "targets": [
+        "mif"
+      ]
+    },
+    {
+      "source": "lindh",
+      "targets": [
+        "lindh"
+      ]
+    },
+    {
+      "source": "soap",
+      "targets": [
+        "sapone"
+      ]
+    },
+    {
+      "source": "medals",
+      "targets": [
+        "medaglie"
+      ]
+    },
+    {
+      "source": "chasse",
+      "targets": [
+        "chasse"
+      ]
+    },
+    {
+      "source": "awe",
+      "targets": [
+        "reverenza"
+      ]
+    },
+    {
+      "source": "bloodthirsty",
+      "targets": [
+        "sanguinari",
+        "sanguinaria",
+        "sanguinario"
+      ]
+    },
+    {
+      "source": "wilfredo",
+      "targets": [
+        "wilfredo"
+      ]
+    },
+    {
+      "source": "appallingly",
+      "targets": [
+        "spaventosamente"
+      ]
+    },
+    {
+      "source": "seguro",
+      "targets": [
+        "seguro"
+      ]
+    },
+    {
+      "source": "locust",
+      "targets": [
+        "carrube"
+      ]
+    },
+    {
+      "source": "farouk",
+      "targets": [
+        "farouk"
+      ]
+    },
+    {
+      "source": "affair",
+      "targets": [
+        "commentarle",
+        "vicenda"
+      ]
+    },
+    {
+      "source": "selection",
+      "targets": [
+        "selezione"
+      ]
+    },
+    {
+      "source": "pompously",
+      "targets": [
+        "pomposamente"
+      ]
+    },
+    {
+      "source": "agreed",
+      "targets": [
+        "concordato"
+      ]
+    },
+    {
+      "source": "unfathomable",
+      "targets": [
+        "abissale"
+      ]
+    },
+    {
+      "source": "soldiers",
+      "targets": [
+        "soldati"
+      ]
+    },
+    {
+      "source": "fear",
+      "targets": [
+        "paura",
+        "timore"
+      ]
+    },
+    {
+      "source": "filmed",
+      "targets": [
+        "filmato"
+      ]
+    },
+    {
+      "source": "based",
+      "targets": [
+        "basata"
+      ]
+    },
+    {
+      "source": "knowledge",
+      "targets": [
+        "conoscenza",
+        "conoscenze"
+      ]
+    },
+    {
+      "source": "mumbai",
+      "targets": [
+        "bombay",
+        "mumbai"
+      ]
+    },
+    {
+      "source": "madman",
+      "targets": [
+        "pazzo"
+      ]
+    },
+    {
+      "source": "softens",
+      "targets": [
+        "attenui"
+      ]
+    },
+    {
+      "source": "spontaneity",
+      "targets": [
+        "spontaneità"
+      ]
+    },
+    {
+      "source": "righteousness",
+      "targets": [
+        "rettitudine"
+      ]
+    },
+    {
+      "source": "skimp",
+      "targets": [
+        "lesinare"
+      ]
+    },
+    {
+      "source": "andreotti",
+      "targets": [
+        "andreotti"
+      ]
+    },
+    {
+      "source": "reappraised",
+      "targets": [
+        "rivalutata"
+      ]
+    },
+    {
+      "source": "ashtray",
+      "targets": [
+        "portacenere"
+      ]
+    },
+    {
+      "source": "armouring",
+      "targets": [
+        "attrezzando"
+      ]
+    },
+    {
+      "source": "grad",
+      "targets": [
+        "grad"
+      ]
+    },
+    {
+      "source": "unison",
+      "targets": [
+        "unisono"
+      ]
+    },
+    {
+      "source": "prayers",
+      "targets": [
+        "preghiere"
+      ]
+    },
+    {
+      "source": "exerted",
+      "targets": [
+        "esercitata",
+        "esercitate"
+      ]
+    },
+    {
+      "source": "orphan",
+      "targets": [
+        "orfane",
+        "orfani"
+      ]
+    },
+    {
+      "source": "euroscepticism",
+      "targets": [
+        "euroscetticismo"
+      ]
+    },
+    {
+      "source": "gaborone",
+      "targets": [
+        "gaborone"
+      ]
+    },
+    {
+      "source": "textiles",
+      "targets": [
+        "tessile",
+        "tessili"
+      ]
+    },
+    {
+      "source": "weedkillers",
+      "targets": [
+        "diserbanti"
+      ]
+    },
+    {
+      "source": "tend",
+      "targets": [
+        "tendono"
+      ]
+    },
+    {
+      "source": "exploiter",
+      "targets": [
+        "sfruttatore"
+      ]
+    },
+    {
+      "source": "routine",
+      "targets": [
+        "routine"
+      ]
+    },
+    {
+      "source": "globalisation",
+      "targets": [
+        "globalizzazione"
+      ]
+    },
+    {
+      "source": "leyla",
+      "targets": [
+        "leyla"
+      ]
+    },
+    {
+      "source": "sole",
+      "targets": [
+        "sole"
+      ]
+    },
+    {
+      "source": "joy",
+      "targets": [
+        "gioia"
+      ]
+    },
+    {
+      "source": "agencies",
+      "targets": [
+        "agenzie"
+      ]
+    },
+    {
+      "source": "miroslav",
+      "targets": [
+        "miroslav"
+      ]
+    },
+    {
+      "source": "climatologists",
+      "targets": [
+        "climatologi"
+      ]
+    },
+    {
+      "source": "inundate",
+      "targets": [
+        "inondano"
+      ]
+    },
+    {
+      "source": "sediments",
+      "targets": [
+        "sedimenti"
+      ]
+    },
+    {
+      "source": "perfidious",
+      "targets": [
+        "perfida"
+      ]
+    },
+    {
+      "source": "sexes",
+      "targets": [
+        "sessi"
+      ]
+    },
+    {
+      "source": "clogged",
+      "targets": [
+        "intasate"
+      ]
+    },
+    {
+      "source": "exalting",
+      "targets": [
+        "decantato"
+      ]
+    },
+    {
+      "source": "relevant",
+      "targets": [
+        "pertinenti"
+      ]
+    },
+    {
+      "source": "tuesday",
+      "targets": [
+        "martedì"
+      ]
+    },
+    {
+      "source": "coexistence",
+      "targets": [
+        "coesistenza",
+        "convivenza"
+      ]
+    },
+    {
+      "source": "environments",
+      "targets": [
+        "ambienti"
+      ]
+    },
+    {
+      "source": "flourishing",
+      "targets": [
+        "fiorente"
+      ]
+    },
+    {
+      "source": "forms",
+      "targets": [
+        "forme"
+      ]
+    },
+    {
+      "source": "sari",
+      "targets": [
+        "sari"
+      ]
+    },
+    {
+      "source": "vélez",
+      "targets": [
+        "vélez"
+      ]
+    },
+    {
+      "source": "swimmer",
+      "targets": [
+        "nuotatore",
+        "nuoto"
+      ]
+    },
+    {
+      "source": "responds",
+      "targets": [
+        "risponda",
+        "risponde"
+      ]
+    },
+    {
+      "source": "caretta",
+      "targets": [
+        "caretta"
+      ]
+    },
+    {
+      "source": "juggles",
+      "targets": [
+        "manipola"
+      ]
+    },
+    {
+      "source": "homosexual",
+      "targets": [
+        "omosessuale",
+        "omosessuali"
+      ]
+    },
+    {
+      "source": "commuter",
+      "targets": [
+        "pendolari"
+      ]
+    },
+    {
+      "source": "received",
+      "targets": [
+        "ricevuto"
+      ]
+    },
+    {
+      "source": "bassam",
+      "targets": [
+        "bassam"
+      ]
+    },
+    {
+      "source": "inquisitor",
+      "targets": [
+        "inquisitore"
+      ]
+    },
+    {
+      "source": "neighbour",
+      "targets": [
+        "vicino"
+      ]
+    },
+    {
+      "source": "reliability",
+      "targets": [
+        "affidabilità"
+      ]
+    },
+    {
+      "source": "antigua",
+      "targets": [
+        "antigua"
+      ]
+    },
+    {
+      "source": "fault",
+      "targets": [
+        "colpa"
+      ]
+    },
+    {
+      "source": "promoted",
+      "targets": [
+        "promossa",
+        "promosso"
+      ]
+    },
+    {
+      "source": "piloting",
+      "targets": [
+        "pilotaggio"
+      ]
+    },
+    {
+      "source": "jehovah",
+      "targets": [
+        "testimoni"
+      ]
+    },
+    {
+      "source": "copd",
+      "targets": [
+        "bpco"
+      ]
+    },
+    {
+      "source": "aggressiveness",
+      "targets": [
+        "aggressività"
+      ]
+    },
+    {
+      "source": "ceausescu",
+      "targets": [
+        "ceausescu"
+      ]
+    },
+    {
+      "source": "fabs",
+      "targets": [
+        "fab"
+      ]
+    },
+    {
+      "source": "fortification",
+      "targets": [
+        "fortificato",
+        "fortificazione"
+      ]
+    },
+    {
+      "source": "reshuffles",
+      "targets": [
+        "ridistribuisce",
+        "rimpasti"
+      ]
+    },
+    {
+      "source": "lahoud",
+      "targets": [
+        "lahoud"
+      ]
+    },
+    {
+      "source": "tempestuous",
+      "targets": [
+        "burrascose",
+        "tempestoso"
+      ]
+    },
+    {
+      "source": "dickens",
+      "targets": [
+        "dickens"
+      ]
+    },
+    {
+      "source": "ngawang",
+      "targets": [
+        "ngawang"
+      ]
+    },
+    {
+      "source": "phd",
+      "targets": [
+        "dottorato"
+      ]
+    },
+    {
+      "source": "indivisibility",
+      "targets": [
+        "indivisibilità"
+      ]
+    },
+    {
+      "source": "ekaterinburg",
+      "targets": [
+        "ekaterinburg"
+      ]
+    },
+    {
+      "source": "looters",
+      "targets": [
+        "saccheggiatori"
+      ]
+    },
+    {
+      "source": "politicise",
+      "targets": [
+        "politicizzare"
+      ]
+    },
+    {
+      "source": "scourges",
+      "targets": [
+        "flagelli",
+        "piaghe"
+      ]
+    },
+    {
+      "source": "warming",
+      "targets": [
+        "riscaldamento"
+      ]
+    },
+    {
+      "source": "poultry",
+      "targets": [
+        "pollame"
+      ]
+    },
+    {
+      "source": "kidnappings",
+      "targets": [
+        "rapimenti",
+        "sequestri"
+      ]
+    },
+    {
+      "source": "command",
+      "targets": [
+        "comando"
+      ]
+    },
+    {
+      "source": "pda",
+      "targets": [
+        "pda"
+      ]
+    },
+    {
+      "source": "diversify",
+      "targets": [
+        "diversificare"
+      ]
+    },
+    {
+      "source": "burgos",
+      "targets": [
+        "burgos"
+      ]
+    },
+    {
+      "source": "enormously",
+      "targets": [
+        "enormemente"
+      ]
+    },
+    {
+      "source": "mandate",
+      "targets": [
+        "mandato"
+      ]
+    },
+    {
+      "source": "clocks",
+      "targets": [
+        "orologi"
+      ]
+    },
+    {
+      "source": "fishing",
+      "targets": [
+        "pesca"
+      ]
+    },
+    {
+      "source": "patrie",
+      "targets": [
+        "patrie"
+      ]
+    },
+    {
+      "source": "rovaniemi",
+      "targets": [
+        "rovaniemi"
+      ]
+    },
+    {
+      "source": "bibliography",
+      "targets": [
+        "bibliografia"
+      ]
+    },
+    {
+      "source": "ovum",
+      "targets": [
+        "ovulo"
+      ]
+    },
+    {
+      "source": "poisonings",
+      "targets": [
+        "avvelenamenti",
+        "intossicazioni"
+      ]
+    },
+    {
+      "source": "rehn",
+      "targets": [
+        "rehn"
+      ]
+    },
+    {
+      "source": "chisinau",
+      "targets": [
+        "chisinau"
+      ]
+    },
+    {
+      "source": "evaluators",
+      "targets": [
+        "esaminatori",
+        "valutatori"
+      ]
+    },
+    {
+      "source": "siemens",
+      "targets": [
+        "siemens"
+      ]
+    },
+    {
+      "source": "idyllic",
+      "targets": [
+        "idilliaca",
+        "idilliaco"
+      ]
+    },
+    {
+      "source": "georges",
+      "targets": [
+        "georges"
+      ]
+    },
+    {
+      "source": "chairs",
+      "targets": [
+        "sedie"
+      ]
+    },
+    {
+      "source": "ostia",
+      "targets": [
+        "ostia"
+      ]
+    },
+    {
+      "source": "roth",
+      "targets": [
+        "roth"
+      ]
+    },
+    {
+      "source": "payments",
+      "targets": [
+        "pagamenti"
+      ]
+    },
+    {
+      "source": "conscripts",
+      "targets": [
+        "reclute"
+      ]
+    },
+    {
+      "source": "nerves",
+      "targets": [
+        "nervi"
+      ]
+    },
+    {
+      "source": "glare",
+      "targets": [
+        "riflettore"
+      ]
+    },
+    {
+      "source": "sequence",
+      "targets": [
+        "sequenza"
+      ]
+    },
+    {
+      "source": "infirm",
+      "targets": [
+        "infermi"
+      ]
+    },
+    {
+      "source": "holies",
+      "targets": [
+        "sanctorum"
+      ]
+    },
+    {
+      "source": "library",
+      "targets": [
+        "biblioteca",
+        "library"
+      ]
+    },
+    {
+      "source": "regularized",
+      "targets": [
+        "regolarizzato"
+      ]
+    },
+    {
+      "source": "legislated",
+      "targets": [
+        "legiferato"
+      ]
+    },
+    {
+      "source": "consultative",
+      "targets": [
+        "consultiva",
+        "consultivo"
+      ]
+    },
+    {
+      "source": "boggles",
+      "targets": [
+        "sbalordisce"
+      ]
+    },
+    {
+      "source": "brigitte",
+      "targets": [
+        "brigitte"
+      ]
+    },
+    {
+      "source": "sonars",
+      "targets": [
+        "sonar"
+      ]
+    },
+    {
+      "source": "acronym",
+      "targets": [
+        "acronimo",
+        "sigla"
+      ]
+    },
+    {
+      "source": "brokering",
+      "targets": [
+        "intermediazione"
+      ]
+    },
+    {
+      "source": "host",
+      "targets": [
+        "ospitante"
+      ]
+    },
+    {
+      "source": "pictograms",
+      "targets": [
+        "pittogrammi"
+      ]
+    },
+    {
+      "source": "leopold",
+      "targets": [
+        "leo",
+        "leopold",
+        "léopold"
+      ]
+    },
+    {
+      "source": "stage",
+      "targets": [
+        "fase"
+      ]
+    },
+    {
+      "source": "nazarbayev",
+      "targets": [
+        "nazarbayev"
+      ]
+    },
+    {
+      "source": "conferral",
+      "targets": [
+        "naturalizzazioni"
+      ]
+    },
+    {
+      "source": "dependency",
+      "targets": [
+        "dipendenza"
+      ]
+    },
+    {
+      "source": "carrier",
+      "targets": [
+        "vettore"
+      ]
+    },
+    {
+      "source": "suharto",
+      "targets": [
+        "suharto"
+      ]
+    },
+    {
+      "source": "equally",
+      "targets": [
+        "altrettanto"
+      ]
+    },
+    {
+      "source": "leniency",
+      "targets": [
+        "clemenza",
+        "indulgenza"
+      ]
+    },
+    {
+      "source": "registration",
+      "targets": [
+        "registrazione"
+      ]
+    },
+    {
+      "source": "roads",
+      "targets": [
+        "strade"
+      ]
+    },
+    {
+      "source": "transfer",
+      "targets": [
+        "trasferimento"
+      ]
+    },
+    {
+      "source": "zurich",
+      "targets": [
+        "zurigo"
+      ]
+    },
+    {
+      "source": "interethnic",
+      "targets": [
+        "interetnica",
+        "interetniche",
+        "interetnici"
+      ]
+    },
+    {
+      "source": "disapproval",
+      "targets": [
+        "disapprovazione"
+      ]
+    },
+    {
+      "source": "slovakia",
+      "targets": [
+        "slovacchia"
+      ]
+    },
+    {
+      "source": "repeated",
+      "targets": [
+        "ripetute"
+      ]
+    },
+    {
+      "source": "lowered",
+      "targets": [
+        "abbassato"
+      ]
+    },
+    {
+      "source": "gaia",
+      "targets": [
+        "gaia"
+      ]
+    },
+    {
+      "source": "embargo",
+      "targets": [
+        "embargo"
+      ]
+    },
+    {
+      "source": "baptist",
+      "targets": [
+        "battista",
+        "battisti"
+      ]
+    },
+    {
+      "source": "cpn",
+      "targets": [
+        "cpn"
+      ]
+    },
+    {
+      "source": "chained",
+      "targets": [
+        "incatenati",
+        "incatenato"
+      ]
+    },
+    {
+      "source": "official",
+      "targets": [
+        "ufficiale",
+        "ufficiali"
+      ]
+    },
+    {
+      "source": "volvo",
+      "targets": [
+        "volvo"
+      ]
+    },
+    {
+      "source": "problem",
+      "targets": [
+        "problem",
+        "problema"
+      ]
+    },
+    {
+      "source": "bavarians",
+      "targets": [
+        "bavaresi"
+      ]
+    },
+    {
+      "source": "irremediable",
+      "targets": [
+        "irrimediabili"
+      ]
+    },
+    {
+      "source": "heralding",
+      "targets": [
+        "preannunciare"
+      ]
+    },
+    {
+      "source": "domino",
+      "targets": [
+        "domino"
+      ]
+    },
+    {
+      "source": "señor",
+      "targets": [
+        "señor"
+      ]
+    },
+    {
+      "source": "disengagement",
+      "targets": [
+        "disimpegno"
+      ]
+    },
+    {
+      "source": "eric",
+      "targets": [
+        "eric"
+      ]
+    },
+    {
+      "source": "jesse",
+      "targets": [
+        "jesse"
+      ]
+    },
+    {
+      "source": "interdepartmental",
+      "targets": [
+        "interdipartimentale"
+      ]
+    },
+    {
+      "source": "forgivable",
+      "targets": [
+        "perdonabile"
+      ]
+    },
+    {
+      "source": "profiteer",
+      "targets": [
+        "affarista",
+        "profittatore"
+      ]
+    },
+    {
+      "source": "berliners",
+      "targets": [
+        "berlinesi"
+      ]
+    },
+    {
+      "source": "ecological",
+      "targets": [
+        "ecologica",
+        "ecologici",
+        "ecologico"
+      ]
+    },
+    {
+      "source": "digressions",
+      "targets": [
+        "digressioni",
+        "disquisizioni",
+        "divagazioni"
+      ]
+    },
+    {
+      "source": "incurred",
+      "targets": [
+        "sostenute",
+        "sostenuti"
+      ]
+    },
+    {
+      "source": "asocial",
+      "targets": [
+        "asociale"
+      ]
+    },
+    {
+      "source": "deregulated",
+      "targets": [
+        "deregolamentato"
+      ]
+    },
+    {
+      "source": "sasi",
+      "targets": [
+        "sasi"
+      ]
+    },
+    {
+      "source": "abhor",
+      "targets": [
+        "aborrire"
+      ]
+    }
+  ]
+}
